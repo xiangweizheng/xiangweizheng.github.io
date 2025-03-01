@@ -27,6 +27,8 @@ jobs:
           cache: npm
       - name: Install Dependencies
         run: npm install
+      - name: Run Douban Book Info Script
+        run: python scripts/douban_book_info.py
       - name: Build with Hexo
         run: npm run build
       - name: Upload artifact

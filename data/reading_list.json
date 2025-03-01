@@ -1,0 +1,58 @@
+[
+  {
+    "title": "三体",
+    "author": "刘慈欣",
+    "publisher": "重庆出版社",
+    "publish_date": "2008-1",
+    "isbn": "9787536692930",
+    "cover_image": "https://img2.doubanio.com/view/subject/l/public/s2768378.jpg",
+    "status": "想读",
+    "add_date": "2024-01-01",
+    "start_date": "",
+    "finish_date": "",
+    "rating": 0,
+    "notes": []
+  },
+  {
+    "title": "魔戒",
+    "author": "J.R.R.托尔金",
+    "publisher": "译林出版社",
+    "publish_date": "2012-9-1",
+    "isbn": "9787544722803",
+    "cover_image": "https://img1.doubanio.com/view/subject/l/public/s26726613.jpg",
+    "status": "想读",
+    "add_date": "2024-01-01",
+    "start_date": "",
+    "finish_date": "",
+    "rating": 0,
+    "notes": []
+  },
+  {
+    "title": "福尔摩斯探案全集",
+    "author": "阿瑟·柯南·道尔",
+    "publisher": "人民文学出版社",
+    "publish_date": "2011-1",
+    "isbn": "9787020083862",
+    "cover_image": "https://img2.doubanio.com/view/subject/l/public/s6106640.jpg",
+    "status": "想读",
+    "add_date": "2024-01-01",
+    "start_date": "",
+    "finish_date": "",
+    "rating": 0,
+    "notes": []
+  },
+  {
+    "title": "小王子",
+    "author": "圣埃克苏佩里",
+    "publisher": "人民文学出版社",
+    "publish_date": "2003-8",
+    "isbn": "9787020042494",
+    "cover_image": "https://img2.doubanio.com/view/subject/l/public/s1001902.jpg",
+    "status": "想读",
+    "add_date": "2024-01-01",
+    "start_date": "",
+    "finish_date": "",
+    "rating": 0,
+    "notes": []
+  }
+]
