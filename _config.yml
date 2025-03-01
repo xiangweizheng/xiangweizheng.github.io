@@ -99,6 +99,14 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: landscape
 
+# Menu Settings
+menu:
+  书影音: /books-movies-tv/
+  评论与笔记: /news-and-notes/
+  诗歌: /poetry/
+  儿童天地: /kids/
+  归档: /archives/
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
