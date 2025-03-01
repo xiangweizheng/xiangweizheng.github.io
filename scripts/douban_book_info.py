@@ -120,17 +120,37 @@ rating:
         return False
 
 def main():
-    title = input('请输入书名：')
-    print('正在搜索豆瓣图书信息...')
-    book_info = search_douban_book(title)
-    
-    if book_info:
-        if create_book_review(book_info):
-            print('读书笔记创建成功！')
+    # 读取reading_list.json文件
+    try:
+        with open('data/reading_list.json', 'r', encoding='utf-8') as f:
+            books = json.load(f)
+    except Exception as e:
+        print(f'读取reading_list.json失败：{e}')
+        return
+
+    # 遍历所有书籍
+    for book in books:
+        title = book['title']
+        print(f'正在处理《{title}》...')
+        
+        # 如果已经有完整信息，跳过
+        if all(key in book for key in ['author', 'publisher', 'publish_date', 'isbn', 'cover_image']):
+            print(f'《{title}》已有完整信息，跳过')
+            continue
+
+        # 搜索豆瓣信息
+        print(f'正在搜索《{title}》的豆瓣信息...')
+        book_info = search_douban_book(title)
+        
+        if book_info:
+            # 创建读书笔记
+            if create_book_review(book_info):
+                print(f'《{title}》的读书笔记创建成功！')
+            else:
+                print(f'《{title}》的读书笔记创建失败。')
         else:
-            print('创建读书笔记失败。')
-    else:
-        print('未找到相关图书信息。')
+            print(f'未找到《{title}》的相关图书信息。')
+
 
 if __name__ == '__main__':
     main()
