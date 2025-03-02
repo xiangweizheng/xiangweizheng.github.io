@@ -1,0 +1,20 @@
+{
+  "movies": [
+    {
+      "title": "肖申克的救赎",
+      "director": "弗兰克·德拉邦特",
+      "image": "https://img2.doubanio.com/view/photo/l/public/s1311361.jpg",
+      "rating": 9.7,
+      "status": "看过",
+      "comment": "希望让人自由"
+    },
+    {
+      "title": "星际穿越",
+      "director": "克里斯托弗·诺兰",
+      "image": "https://img3.doubanio.com/view/photo/l/public/s27814883.jpg",
+      "rating": 9.3,
+      "status": "想看",
+      "comment": "探索宇宙的科幻巨作"
+    }
+  ]
+}

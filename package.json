@@ -11,8 +11,12 @@
   "hexo": {
     "version": "7.0.0"
   },
+  "engines": {
+    "node": "22.0.4"
+  },
   "dependencies": {
     "hexo": "^7.0.0",
+    "hexo-douban": "^2.3.6",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
     "hexo-generator-index": "^4.0.0",
