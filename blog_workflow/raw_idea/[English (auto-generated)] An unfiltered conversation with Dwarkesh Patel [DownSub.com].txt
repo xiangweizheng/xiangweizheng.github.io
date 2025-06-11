@@ -1,0 +1,3108 @@
+but I don't think people take seriously
+
+enough the
+
+idea that like it's not just like having
+
+more humans or something because of the
+
+like because of the nature of AI they
+
+have advantages especially that have
+
+nothing to do with their IQ but their
+
+ability to coordinate with each other
+
+and specifically the fact that you can
+
+you know scale them you can copy them I
+
+mean copying is the biggest one uh you
+
+can merge them you can distill them uh
+
+and you can like select and evolve over
+
+groups of you know teams of the inherent
+
+limitation of the moment is that people
+
+are economically incentivized to not
+
+build AI into their products you know
+
+chbt set the price of all AI products at
+
+$20 and it's really hard to do all this
+
+cool stuff at $20 a $20 price
+
+point D I'm super excited about this I
+
+think you you put out a video recently
+
+and this was like not one of your normal
+
+interview type videos where you're sort
+
+of talking about it was almost like a
+
+semi recruitment video semi you sort of
+
+I think telling people what you're
+
+excited to spend your time working on um
+
+do you want to sort of just I think it
+
+was it was a helpful video for me to
+
+just sort of get a sense of your
+
+worldview of like where you're building
+
+this thing which is now your podcast or
+
+like I don't even know how you describe
+
+it to people externally but um I think
+
+the like Essence that I took away was
+
+like there's this really incredible AI
+
+moment that's happening and there's not
+
+enough people who actually have a grasp
+
+of of what's happening and um I think
+
+this is a huge problem for the world and
+
+I'm I'm curious to get your sort of
+
+framing of this yeah um uh and it was in
+
+the context of recruiting but I do
+
+believe it which is that look um if you
+
+remember when covid happened there was
+
+like um there was a point in like March
+
+uh April whatever when people were like
+
+okay this is the main thing that's
+
+happening in the world and if you talk
+
+to the president if you talk to the CEO
+
+of some company if you talk to the uh a
+
+CNN reporter whatever it's just like Co
+
+is the main thing we are dealing with as
+
+a world and but if you go back a month
+
+or something February it's like one of
+
+20 things that are on your radar right
+
+um uh maybe especially in January and I
+
+feel like we're in this sort of
+
+transition moment in AI where I think if
+
+it goes the way in which I think it will
+
+go and maybe you as well that like look
+
+it'll be become pretty obvious that this
+
+is like the main thing that's happening
+
+in the world right now we're not there
+
+yet um and so what I try to do on the
+
+podcast is uh especially more and more
+
+so is not only cover AI from the like
+
+you know like look if we had really good
+
+information about Co and had like really
+
+thoughtful analysis of it we could have
+
+avoided a lot of mistakes um made a lot
+
+of what ended up being good decisions
+
+even earlier and so forth but also um
+
+like I think in the eii
+
+field it does get coverage in the sense
+
+of like people will get on Twitter and
+
+tell you about like what's different
+
+between 03 and grock 3 and so forth this
+
+um very like what week to week month-to
+
+Monon kind of update and who's ahead in
+
+the benchmarks but just like come on
+
+guys let's step back as just a second
+
+like what's going on here and um you
+
+know uh when you zoom out like 5 years
+
+10 years 20 years and not just from just
+
+like you know like let's let's smoke a
+
+doobie and like talk you know about AGI
+
+or something but like you know what are
+
+the best models we have from like
+
+economics and um all these other fields
+
+which lend us some insight into how to
+
+think about what a world would look like
+
+when you have billions of extra people
+
+many of them smarter than um humans and
+
+um I try to think rigorously about
+
+what's going to happen in the world not
+
+that far from
+
+now yeah and and how much um how much do
+
+you think about like the actual medium
+
+of of how you do this like is it like
+
+you're like bought and sold that like
+
+you know long form video conversation
+
+audio conversation is like the mechanism
+
+by which you can like most efficiently
+
+do it or like what like have you thought
+
+about like other ways of sort of same
+
+mission same way of delivering on that
+
+but just like not
+
+a podcast or not videos or something
+
+like that yeah I think um I do want to
+
+do more blog post because there are a
+
+lot of topics where I haven't found
+
+somebody who's like the clear obvious
+
+best guest then I think it's just a
+
+matter of like somebody's got to think
+
+about this and write it up and do the
+
+research um in particular on like things
+
+involving China and also on what does
+
+the endgame for AI look like and how
+
+that should inform our sort of views on
+
+I you know I I'm a sort of libertarian I
+
+believe we should like try to give
+
+things people AIS whatever as much
+
+Freedom as we can given the constraints
+
+of what's practical and um if you
+
+believe in an intelligence explosion is
+
+there a way in which you can still keep
+
+um Classical liberalism within that so
+
+anyways those are the kinds of topics I
+
+want to do more blog post about but I do
+
+think that people really underrate in
+
+general people really underrate video um
+
+and podcast in general but especially
+
+video as a medium of delivering messages
+
+to people if I just think about how I
+
+spend my free time so much of it M on
+
+YouTube like if I'm just being honest
+
+right and um like the world is Big right
+
+and just like staying on Twitter or on
+
+the five blogs you read um rather than
+
+just like reading the reaching the
+
+millions of people who are out there um
+
+uh so I'm still doubling down on video
+
+but also more blog posts yeah and one
+
+other quick followup on this um is like
+
+how much do you worry about like I think
+
+the the the my assessment and you can
+
+tell me this is right or wrong but like
+
+my assessment is like the people who are
+
+sort of paying closest attention to the
+
+AI moment are like people who are like
+
+sort of either well situated to benefit
+
+from it or like just like already kind
+
+of in that ecosystem and I think
+
+actually like the folks who are going to
+
+be disproportionately perhaps impacted
+
+by what's going to happen are like the
+
+people who don't have this visibility
+
+and I think I'm curious how you think
+
+about like how like the audience that
+
+you're reaching and like how much that
+
+has an impact on like these different
+
+mediums uh because it's something that
+
+nol and I have actually talked about and
+
+we're we're at a much smaller scale than
+
+I think your visibilities at but it's
+
+like how much do we actually want to
+
+like go down the rabbit hole really
+
+deeply versus like just try to get the
+
+sort of General themes to the widest
+
+number of people and it's this weird
+
+trade-off because it's hard to it seems
+
+like you can't do really great content
+
+around both um in in some cases or maybe
+
+you can but I would actually disagree
+
+with that I mean like
+
+um uh I wouldn't even use like myself as
+
+a reference word I think like there
+
+maybe a different example here is like
+
+three blue one brown if like if you like
+
+watches M stuff it's like I mean like
+
+literally his like Transformer series or
+
+Andre karpathy it's like way more
+
+Technical and detailed than any podcast
+
+episode I've done uh like I'm not going
+
+through and showing you the exact
+
+formula for attention or something but
+
+um but it's like way more popular too um
+
+uh and um I'd be curious about your
+
+experience have you noticed in the
+
+episodes you do that are more technical
+
+they get less views or something because
+
+in my experience like
+
+um at least in terms of yeah I mean I
+
+would say like I was surprised for
+
+example with your for colleague uh
+
+schotto and um another AI researcher
+
+Trenton uh who are my good friends we
+
+did an episode together and for that you
+
+know I like around that time I also
+
+interviewed other like AI lab CEOs and
+
+so forth and that video which was much
+
+more Technical and that podcast
+
+performed better than like you know
+
+interviewing the labs of aicos and so
+
+forth I'm curious about your experience
+
+here though no I think this is a good
+
+example of like you you're just better
+
+at this like I think maybe there's the I
+
+think this is true at the sort of
+
+potential outcome level I think there's
+
+there's a better method perhaps than uh
+
+than what we're doing but I no I think
+
+that's actually the Andre karpathy and
+
+and Grant Sanderson examples are are
+
+really actually the best examples of
+
+this honestly I think like they have
+
+made this really well like I think the
+
+challenges um it's hard to find those
+
+there's not a lot of like and I've
+
+actually thought about this a lot for
+
+for three blue one brown and Grant
+
+Sanderson and we did some stuff together
+
+um when he was working on the Julia
+
+programming uh computation
+
+mitle are people and it's just to be the
+
+person like yeah it's just it's tough
+
+like we need more of those people yeah
+
+yeah yeah yeah I mean definitely a skill
+
+he has and also like he does it all
+
+himself like he's like he's not like
+
+outsourced any like he like wrote the
+
+library and then like codes up all the
+
+animations himself and everything it's
+
+quite
+
+impressive I guess as someone who is
+
+obviously creative and building and you
+
+talk about blogs and writing articles
+
+you know as AI generated content becomes
+
+more indistinguishable than human
+
+content as far as human outputs like you
+
+know what is
+
+the needle as far as moving with
+
+authenticity like will that still matter
+
+like how do you I'm just curious to your
+
+thoughts that someone who's building
+
+because Logan and I have talked about
+
+you know hey let's get these AI reports
+
+up and running get them out to the
+
+audience Logan's like no no no make it
+
+or gantic has got to come from us so
+
+curious as someone from someone like you
+
+how how you view that
+
+I think as a matter of if I just want to
+
+learn like in a matter of a year or two
+
+and you're on the inside so you would
+
+you would have even better estimates
+
+than me obviously but um uh I would
+
+expect like if I want to learn about a
+
+topic I'm not if it it's just like pure
+
+information I'm like I'm already at a
+
+point where I wouldn't hire like a
+
+either a research assistant or tutor or
+
+something in many topics I would just
+
+like like chatting to Claude is way more
+
+useful and by the way that or sorry
+
+gemini or yeah any other llm um uh by
+
+the way that is an interesting thought
+
+about like how much were you willing to
+
+pay for tutors to teach you about
+
+whatever discipline you know usually
+
+High tens to hundreds of dollars and $20
+
+a month and you can just like learn you
+
+know you get I mean like it's I would
+
+pre prefer talking to it than to uh most
+
+tutors separately but um yeah so then in
+
+terms of so in ter of like teaching
+
+people stuff yeah they're going to win
+
+um
+
+then there's a matter of like driving
+
+saliency towards something where I'm
+
+like I don't know if I interview um just
+
+like this week I interviewed s Adella
+
+and like I don't think people are
+
+watching that because like he is like
+
+the best explainer in the world about
+
+topological cubits but it's like this is
+
+like the you know this is like he is the
+
+person to like convey his thoughts on it
+
+um uh or to package all his like entire
+
+worldview together and like apply it to
+
+this uh particular breakthrough or
+
+something um so I think it'll it'll
+
+probably become more of a matter of
+
+like but then again why can't the AI is
+
+just emulate a person of a particular
+
+kind of viewpoint
+
+um I don't know I mean maybe I get
+
+automated I I don't know if I have a
+
+good I don't know if I have a good
+
+answer what do you guys
+
+think yeah I was goingon to say I think
+
+it's it's interesting too because I mean
+
+I think there's an argument to be made
+
+and log I've talked about this as well
+
+like what if we could just you know make
+
+this extra layer on a large language
+
+model that's trained on all your stuff
+
+so again kind of reflecting your
+
+thoughts your ideas your writing
+
+patterns your writing you know context
+
+whatever the case is so maybe that gets
+
+back kicked back to you does it truly
+
+reflect you yeah I I don't know that's
+
+why I was curious GNA get your thoughts
+
+Logan what are what are you thinking
+
+over there yeah I think this is like the
+
+the and our couch I think the best
+
+example of this is like especially with
+
+research stuff and like as you go down
+
+the rabbit hole I think the challenge
+
+and it's maybe the same situation when
+
+you like hear your own voice which is
+
+like maybe maybe the outcome will be
+
+like even if the thing's trained in all
+
+your stuff you like look at it and
+
+you're like I I wasn't the one who
+
+formed those thoughts and thus like this
+
+thing's not actually representing like
+
+who I am and therefore like I'm always
+
+going to go and make my own content
+
+personally myself because like I don't
+
+want this thing still seems forign even
+
+though it's supposedly some
+
+approximation of who I
+
+am I I mean I I wonder if you'll feel
+
+this way about
+
+like the relationship you know sometimes
+
+you'll like write a blog post you'll
+
+write something and then like go forget
+
+about it and you'll look back on it a
+
+month later and there will be this sort
+
+of feeling of familiar it but also
+
+encountering it for the first time and I
+
+feel like it'll be like that where
+
+sometimes I'm like who wrote this [ __ ]
+
+right and then sometimes I'm like oh
+
+this is like good like that's actually a
+
+really interesting idea I don't know why
+
+I you know like lost my I didn't follow
+
+up on that but um I I wonder if it feel
+
+like
+
+that speaking of speaking of writing uh
+
+we can now kind of chime in on your
+
+article uh for folks who haven't read it
+
+yet it's called what fully automated
+
+firms will look like uh I want to double
+
+click on that it kind of sounds like a
+
+sci-fi movie I was reading it very
+
+interesting around your concept and the
+
+idea around having basically these
+
+models with other models all
+
+streamlining the process of human
+
+workflow uh so yeah just curious to to
+
+hear more on yeah I mean the basic idea
+
+I was going for there is usually when
+
+you think about how the world will
+
+change with AIS it's very common to
+
+think in just terms of look at I'll be
+
+like I have a smart personal assistant
+
+and I'll be like 2x more productive or
+
+something um but I don't think people
+
+take seriously enough the
+
+idea that uh like it's not just like
+
+having more humans or something because
+
+of the like because of the nature of AI
+
+they have advantages especially that
+
+have nothing to do with their IQ but
+
+their ability to coordinate with each
+
+other and specifically the fact that you
+
+can you know scale them you can copy
+
+them I mean copying is the biggest one
+
+uh you can merge them you can distill
+
+them uh and you can like select and
+
+evolve over groups of you know teams of
+
+them or groups of them um just the idea
+
+that like look how much how much higher
+
+would Google's market cap be if you
+
+could like make arbitrary copies of Jeff
+
+Dean or uh Cinder Pai or something and
+
+then um how how about like the fact that
+
+it's like the company obviously is so
+
+big so it has to be distributed and
+
+there's so much that's lost in that um
+
+Lost in Translation or inefficiencies
+
+and so forth and what if every single
+
+layer of the bureaucracy was just like
+
+you don't need that cuz like Sundar is
+
+like now you're spending like a billion
+
+dollars on in inference on Sundar and
+
+like he can literally write every press
+
+release he can like view every pull
+
+request he can um craft every strategy
+
+Doc and like whoever's the best person
+
+to do it I mean like if like Jeff Dean
+
+should be like doing a billion dollars
+
+worth of inference then he's the one
+
+who's doing it um and you can advertise
+
+the cost of all the training like you
+
+know you want to know how the data
+
+centers work and you want to know how
+
+like um how to code for like a certain
+
+kind of thing really well you want to
+
+understand uh business case studies
+
+really well since you can just like copy
+
+uh make copies arbitrarily easily um
+
+then you can just like advertise the
+
+cost of like getting phds in every
+
+single field and then like for a few
+
+cents just get another copy of that and
+
+I mean you can keep going down this list
+
+of advantages but like just basically
+
+you just have like humongous population
+
+sizes and this ability to communicate
+
+really efficiently and like if you think
+
+about what makes human specials from
+
+other animals it's this uh ability to
+
+accumulate cultural knowledge um which
+
+does get uh messed up in these sorts so
+
+like it's like hard to accumulate you
+
+know like just like a lot of Gets Lost
+
+in Translation we have big bureaucracies
+
+and so forth and um uh the potential
+
+here is that like that just you know
+
+it's like it'll be the difference
+
+between like Pro carots and UK carots in
+
+terms of the level of complexity you can
+
+accumulate this is an interesting thread
+
+to pull on uh Nolan and I were talking
+
+to uh the CEO of Stack blits bolt. new
+
+which is one of those applications where
+
+you can sort of put in text and get an
+
+application that just like kind of works
+
+right out of the box um and the threat
+
+of that conversation was around like how
+
+yes you can do that but like actually at
+
+the end of the day it's like it is how
+
+you bring that thing to the world like
+
+matters a lot and I guess in like the
+
+context of like you know using the
+
+Google example is kind of like easy to
+
+get around this because Google has
+
+distribution and all this other stuff
+
+but if you think about like the fully
+
+autonomous like company that is like
+
+starting from scratch today where like
+
+they actually there's like all of this
+
+like you need to go get human attention
+
+in order to like sell something or get
+
+someone to do something like how do you
+
+think like how like yes the whole system
+
+can run itself but do you think yeah how
+
+do you think about it going in like
+
+doing the like actually interacting with
+
+the world uh piece of it um I mean
+
+you're closer to the ground on this than
+
+me but like aren't aren't their
+
+companies working on this and so to be
+
+clear the idea here is like this is not
+
+like I'm saying this is going to happen
+
+next year this is more like look once we
+
+have AGI I'm just saying this is not
+
+going to be like oh everybody's 2 extra
+
+more productive I'm saying like this is
+
+like um this is another way to think
+
+about why it's so cyber Punk and like
+
+completely different it's like it's not
+
+just having more people or something and
+
+like this doesn't assume super human
+
+intelligence this doesn't like I'm not
+
+saying that they're like 250 IQ or
+
+something like literally if they're like
+
+humans but if humans like Minds could
+
+like merge and if like you could like
+
+arbitrarily copy their them and so forth
+
+um uh this is what could happen um and
+
+then in over the long run I mean like
+
+Robotics and like you know like I'm sure
+
+like the the AIS will have CRM talk to
+
+other AIS and so forth like you know in
+
+the long run that I think that will
+
+happen yeah just just while you made the
+
+AGI comment um I think it it feels like
+
+the discussion has shifted so much in
+
+the LA at least my take on like the
+
+overall discussion of AGI has shifted so
+
+much in the last six months even um do
+
+you have a sense of like what your you
+
+know if you got insert your favorite lab
+
+CEO on on the show and they're like we
+
+have AGI to our and we want to show to
+
+you like what would be the thing that
+
+you're actually looking for as like
+
+evidence or like what are the questions
+
+you're asking to be like to probe that
+
+that that that's actually true in some
+
+case I think I would be less interested
+
+in like the specific questions because
+
+I'm like from like just a text interface
+
+I'm like they're like they're basically
+
+AGI I think I'm more curious about like
+
+um remote work kinds of things of like
+
+can I can you just go do a task for me
+
+um so I would count AGI as like if you
+
+can do anything any remote worker can do
+
+or like less 90% % of anything that any
+
+remote so like obviously we've got like
+
+super smart humans who can do like very
+
+specialized things but like if I could
+
+like hop on a computer and do something
+
+uh this this like model can do it I'm
+
+I'm like I'd be especially Keen to see
+
+that just like give it a VM and like can
+
+it do what I would
+
+do another interesting question I I know
+
+that you kind of formed the podcast and
+
+I was doing research on the podcast it
+
+was you know started almost four years
+
+ago in your dorm during covid and I
+
+believe correct me if I'm wrong but
+
+there was almost like a two years in
+
+there was a thought an idea potentially
+
+shutting down the podcast and then maybe
+
+a listener or someone was able to Grant
+
+you with some funds to give you some
+
+leeway to really kick things up and all
+
+to say you know phenomenal decision on
+
+that individual's part because now
+
+you're now you're absolutely crushing it
+
+um but I think on that you know you've
+
+mentioned that one of your goals with
+
+the podcast is to develop original
+
+insights and gain deeper understandings
+
+of various topics so can you share some
+
+key insights you formed from your
+
+conversations and how they actually
+
+shape some of your thinking
+
+now and my my sort of parallel question
+
+to this is like have you had any of
+
+these conversations where you're
+
+like it it sort of changed like I I see
+
+some of the conversations you're having
+
+it's like obviously some of the most
+
+impactful people have you walked away
+
+from any of those being like actually my
+
+worldview was just like dramatically
+
+updated after this two-hour conversation
+
+I think the biggest example of that was
+
+the conversation with Carl schan which
+
+is I think at this point over like two
+
+years ago or something but he's this uh
+
+person who is like incredibly smart
+
+behind a like you know a decade or so
+
+ago came up with many of the ideas like
+
+we now talk about as like are part of
+
+the lingo is that kind of comes from him
+
+the idea of like explosive growth you
+
+know like maybe if you just like plug in
+
+our economic models and you have extra
+
+people um then you and like the more
+
+people leads to um more compute which
+
+leads to more people and so forth that
+
+leads to explosive growth um the idea of
+
+a potential software only Singularity uh
+
+uh but the thing I especially picked up
+
+from the conversation which was quite um
+
+I mean there were so many things but one
+
+was uh this um this analogy to scaling
+
+in humans and um from like primates to
+
+humans like why are humans so smart and
+
+it's uh there's research which suggests
+
+that it's because um if you look at how
+
+many more neurons other kinds of animals
+
+get as if you like increase their weight
+
+by a gram the increase the weight of
+
+their brain by a gram how many more
+
+neurons you get it doesn't really scale
+
+that well um whereas for hum like you
+
+know they they won't get like linear
+
+increase in the amount of neurons
+
+whereas for primates there is like
+
+really good scaling of like brain mass
+
+to number of neurons and the theory
+
+there is there's like a more scalable
+
+architecture that was figured out with
+
+primates um and then you could just like
+
+follow this um and other things about
+
+our environment at the time rewarded
+
+marginal increases in intelligence and
+
+This lends Credence to the scaling
+
+hypothesis where why these AIS would
+
+become by default um like generally
+
+intelligent as a result of more compute
+
+um that I found super and there were so
+
+many other things like that and I can
+
+just like keep going down the list but I
+
+would say Carl strowman was like the the
+
+the episode where I'm like whoa yeah I I
+
+love that do do you think like from that
+
+narrative and and what you've seen today
+
+like if you had to hypothesize like why
+
+that sort of explosive growth takeoff
+
+doesn't happen specifically enabled by
+
+Al like do you have any like thoughts as
+
+to like what would be the thing that
+
+stops that from happening is it like
+
+government regulation or like and yeah
+
+what are
+
+the yeah I I think it would just be like
+
+models don't you know like we have these
+
+models based on 200 years of human
+
+history or something and people have
+
+tried to extrapolate it back to a
+
+million years ago or 10,000 years ago or
+
+something and uh you can buy that if you
+
+want but the um the idea that like uh
+
+you're just extrapolating this to like
+
+this totally different thing and we um
+
+like maybe it just doesn't apply for
+
+there's many different reasons why it
+
+couldn't apply one is maybe you're like
+
+really bottlenecked by your top people
+
+and not just like general population
+
+size and in human groups population size
+
+is just a proxy for um like how many top
+
+people you have rather like you know if
+
+like Switzerland has like a couple
+
+million people and then America has 300
+
+million people America's just going to
+
+have more Geniuses and that's what
+
+really matters it's not like the 300
+
+million um and so with AI since they're
+
+all the same you need them to all be
+
+genius like you need you know you can't
+
+just like have like 300 million a normal
+
+any there's so many other things that
+
+could be wrong with this argument one
+
+other that Tyler Cowen explained when he
+
+was arguing against this view on my
+
+podcast is that there's like look South
+
+Saharan Africa has a lot of people um uh
+
+and they don't have like explosive
+
+growth um and like something's wrong
+
+there it's not clear how you fix it or
+
+how intelligence would solve whatever is
+
+going on similar to like many other
+
+problems in the world there's like some
+
+other bottle link
+
+I guess interesting to get your thought
+
+on this too as someone who's talking to
+
+all these Builders and and you know
+
+prominent people in this space you know
+
+are there any because you're always
+
+hearing like what's next what's next
+
+kind of really pushing the limits you
+
+know are there after any of your of your
+
+podcasts or any your calls do you ever
+
+sit back and kind of reflect and be like
+
+oh crap we're moving too quick like
+
+here's an issue with AI that's actually
+
+not being talked about as much as it
+
+should and here's kind of the ripple
+
+effect that would play um certainly
+
+using AI for further AI research because
+
+I think that could plausibly lead to an
+
+intelligence explosion um not in sort of
+
+like this comical like they're like
+
+writing the code from like writing like
+
+the four Loops for like AGI or something
+
+but just in the sense of it seems like
+
+the more really good a AI researchers
+
+you have the more progress you can make
+
+and if you make these things smart
+
+enough to where like smarter AIS are
+
+helping you find these like little
+
+aloric uh compute multipliers which help
+
+you make like increase the population of
+
+AI researchers uh and you repeat that
+
+Loop maybe you get super human
+
+Intelligence on the other end and like a
+
+you know very rapid software only
+
+Singularity um maybe that's like the
+
+biggest question uh and like I if I was
+
+like uh sort of hassling the lab leaders
+
+or somebody I would just be like youo um
+
+how carefully you're thinking about this
+
+critical threshold and when I had Jeff
+
+de nor Zer on the podcast um I think I
+
+was just like wait you're just say like
+
+they were just like yeah this is what's
+
+going to happen like the intelligence
+
+explosion uh because of like these
+
+automated AI researchers and I'm like
+
+isn't that crazy like what are you
+
+what's your plan for that and so forth
+
+so um yeah that maybe that's the under
+
+under discuss
+
+thing yeah did you did you see the the
+
+co- scientist stuff that we we put out
+
+yesterday I don't know if you had a
+
+chance to look through any of it no not
+
+yet but uh I I've been meaning to get
+
+into it um yeah yeah tell me more about
+
+it what's uh how does it work yeah I
+
+think this is like the ear so this this
+
+system is not um this is like truly a
+
+system built on top of Gemini it's not
+
+like uh the model doing it's not like a
+
+different version of the model um but I
+
+think like is was actually and I chat
+
+with that team this morning was just
+
+like a good example of how um the model
+
+is able to like generate a bunch of
+
+Novel hypotheses potentially about
+
+different like combinations between
+
+drugs and outcomes or like medical
+
+conditions like all these different
+
+scientific domains um and then it
+
+actually just like goes through existing
+
+research literature and like kind of
+
+does what you would imagine as like Tre
+
+search of you know what are the
+
+different combinations of uh different
+
+things and like connecting different
+
+scientific data between so it's like it
+
+is taking what we have and trying to
+
+find novel is was my loose approximation
+
+like less so than like it's truly trying
+
+to like invent something new or like I
+
+think there is an angle to that as well
+
+and then it's like given obviously that
+
+it doesn't have the ability to test
+
+whether or not any of these things are
+
+true so it is hypotheses that are like
+
+backed by scientific data and then you
+
+would sort of hand that off to a
+
+researcher to be like okay here's your
+
+research agenda now like go validate
+
+whether or not this thing is true
+
+um it feels like that's going to be hard
+
+to do and I think the like the thing
+
+that makes me nervous about the
+
+automated research perspective is like
+
+actually if you do get enough compute um
+
+doing this for llms is like or like AI
+
+models is actually pretty easy to do
+
+because like you have like a bunch of
+
+like distinct evals versus like I feel
+
+like on the science side it's like
+
+actually a little bit harder because you
+
+have to like prove these like novel
+
+hypotheses which like you'd need to do
+
+like a clinical trial with fizer and
+
+it's gonna cost $150 million or
+
+something it's like really hard to make
+
+that happen and like validate that can I
+
+ask you a couple questions about uh this
+
+actually so you guys were the first ones
+
+to do deep research too right and this
+
+was another similar sort of like um
+
+scaffold uh what could is it just like a
+
+thing did it involve any fine tuning at
+
+all or was it just like a thing anybody
+
+could have done and you just like nobody
+
+else bothered to do it like it was just
+
+like a like fundamentally it's like a
+
+matter so I mean I I don't know this is
+
+true but I've like heard similar things
+
+about chat GPT itself and so forth um um
+
+like what's your take on maybe not
+
+okay is kind of true you should talk to
+
+Frasier Kelton uh I apologize Frasier if
+
+I'm butchering your last name who is the
+
+head of product for open AI when Chachi
+
+BT was released um and like this is part
+
+like the it was the model that went into
+
+Chachi BT originally was not the model
+
+that was publicly like it did have
+
+additional like instruction tuning for
+
+the like the chat style so like it
+
+wasn't the off the shelf model that was
+
+available the API so like but you could
+
+almost do chachy BT yeah so what's your
+
+like what's your theory on why I mean
+
+like I feel like you you can't throw a
+
+stone in San Francisco and not hit
+
+somebody building an llm rapper but
+
+maybe of many of the most successful
+
+ones have like come from the labs
+
+themselves as like notebook LM or deep
+
+research or so forth um what's your take
+
+on like all these people are trying to
+
+start llm startups or llm rappers and
+
+then like the labs are the only ones
+
+succeeding at um making them even though
+
+the fact or not the only ones but like
+
+like they have really good U ability to
+
+succeed here despite the fact that like
+
+everybody's you know I don't know like
+
+fundamentally it shouldn't be the same
+
+thing right so what do you think is
+
+going on there yeah I I think I mean I
+
+think there's two levels to this one I
+
+think the proximity to the research and
+
+like the magic like kind of inspire and
+
+like I think you feel that like I'm I'm
+
+sure you you can ask Folks at open AI uh
+
+and like you just kind of feel like
+
+you're close to the magic and like the
+
+ideas are like flowing at a different
+
+level than I think like a lot of other
+
+places are um but also Al I think like
+
+you kind of have the agency to think
+
+about this from the perspective of like
+
+we do actually control the model and
+
+like could we like do we need to like
+
+you know maybe we don't need to make the
+
+model worse but I think like people kind
+
+of have the freedom to imagine like what
+
+would we do if we could you know control
+
+the whole end of the spectrum and I
+
+think when you're outside of the
+
+somewhere that actually makes a language
+
+model or any type of AI model I think
+
+you kind of start to think about like oh
+
+well what is the technology that others
+
+are giving to me and like you're kind of
+
+stuck in that framework and I think that
+
+framework is actually in many ways like
+
+limiting the mindset of what the order
+
+of magnitude of what people try to solve
+
+versus like you know we have full
+
+control all the way down to the TPU we
+
+can do anything like what is actually
+
+the most impactful problem to solve and
+
+I think that's like my my essence of the
+
+co- scientist angle is like this is
+
+actually a really important problem to
+
+solve and like somebody should take a
+
+shot at it um and like maybe this won't
+
+work but um we have everything we need
+
+to potentially make it successful yeah
+
+yeah y yeah um let's get another
+
+question
+
+uh I lost my train of thought um on this
+
+I wonder if like one of the things is
+
+that is it that maybe you're more
+
+comfortable spending inference compute
+
+in a way that like if you're building an
+
+llm rapper you just want to make like
+
+one call or a couple of calls or
+
+something and you're just like no it's
+
+going to be like whatever amount like
+
+many uh double digit dollars worth of
+
+compute per like uh deep research or
+
+whatever um probably not that high but
+
+like or per like the co- scientist thing
+
+and like maybe the Labs more comfortable
+
+doing that I no I think this is true
+
+like this this is actually and no and I
+
+have had this conversation with like
+
+almost everyone who is we have a lot of
+
+folks who are like building AI products
+
+and I think this is actually the the
+
+inherent limitation of the moment is
+
+that um people are economically
+
+incentivized to not build AI into their
+
+products it's like do as minimal AI as
+
+possible because like actually your you
+
+know chbt set the price of all AI
+
+products at $20 and it's really hard to
+
+do all this cool stuff at $20 a $20
+
+price point and like um I I think the
+
+positive thing is like and we this is me
+
+reframing it slightly but like I think
+
+the cost of AI is going down to the
+
+right like the cost is down 99% over the
+
+last two years consumer awareness of AI
+
+um and understanding of what AI can do
+
+is like going up and to the right and
+
+like in parallel to that is consumer
+
+willingness to spend on AI so like I
+
+think people need to take and that's why
+
+like I love the like you know $500 a
+
+month Devon AI software engineer $200 a
+
+month catb because like I actually do
+
+think like you people need to have the
+
+freedom to push the frontier and I think
+
+it means you're going to have to have a
+
+more expensive product today and like
+
+hopefully you make that cheaper for
+
+everyone but like just a $20 product
+
+like you're not going to solve the
+
+problems that the world has with that
+
+like it needs to be something else yeah
+
+and especially I mean we were just
+
+talking about this with like how much a
+
+tutor is worth but like go across every
+
+category and like how much we're willing
+
+to pay for humans to do similar things
+
+and it's like a weird um uh uh skipping
+
+over dollars to pick pick up pennies
+
+kind of uh uh kind of
+
+thing I think another interesting threat
+
+is we were talking to chamath about this
+
+and kind of just AI adoption as a whole
+
+and consumers but also just like the the
+
+general public as well and we're kind of
+
+talking about use cases and what are
+
+actual tangible use cases that get
+
+people feel uncomfortable with
+
+leveraging AI or these different
+
+Technologies um as someone has obviously
+
+talked to a lot of folks I know some of
+
+which are you know part of the large
+
+organizations that maybe are still
+
+building but any use cases that really
+
+stand out from some of your
+
+conversations whether it was like oh
+
+crap I never thought about this or hey
+
+this is a use case that adopted way
+
+quicker and scale a lot faster than
+
+maybe originally anticipated because the
+
+market was larger than what maybe for
+
+for for consumers um yeah I mean for
+
+consumers or products or users you know
+
+talking to someone who's been able to
+
+put something AI related in front of an
+
+audience and next thing you know is bit
+
+[Music]
+
+on uh I mean other than the obvious ones
+
+which are like you know deep research uh
+
+uh and so forth uh notebook
+
+um yes I guess it's weird that I a lot
+
+of examples don't immediately come to
+
+mind um I would say that like I'm
+
+surprised that more people aren't using
+
+like a cursor like equivalent for
+
+writing which the AI firms post I like
+
+wrote using like the basically I mean
+
+obsidian has a plugin that basically
+
+works like cursor but within the
+
+markdown uh cursor itself also works on
+
+marktown and like that's like incredibly
+
+useful interface um especially the way I
+
+write is just like I'm like ah this is
+
+what I mean to say um and then just like
+
+put it into like use a whisper flow and
+
+just like uh and then just like H hit
+
+send on that um and then another thing
+
+is I personally have been using I have a
+
+couple of internal scripts that I have
+
+and again this is like not really
+
+answering your question because you
+
+asking what other people use but I have
+
+like a couple scripts where you know
+
+like sat down an afternoon and it's like
+
+one I have um uh it fixes an
+
+autogenerated transcript by feeding into
+
+Gemini and then just like hey rewrite
+
+this and here's what I like in
+
+transcripts like here's how you make
+
+them more readable and whatever it's
+
+like um there's like no publicly
+
+available tool that results in as good
+
+quality transcripts at the other end as
+
+like this little script with Gemini on
+
+the other multimodal Gemini on the other
+
+end and it's like how valuable is text
+
+to speech by the way and or sorry speech
+
+to text and like the fact that like you
+
+know it's like 300 lines of code or
+
+something um and like you know people
+
+would be willing to spend like whatever
+
+Gemini flash cost to make this happen
+
+right it's like some is not doing it uh
+
+similar for like other post production
+
+stuff so um but yeah I guess I'm like
+
+not aware of what of the other consumer
+
+things people are using this for I I
+
+love the the writing cursor angle people
+
+were meing on me the other day because I
+
+tweeted I was like cursor for everything
+
+like cursor the whole stack down for
+
+writing for like customers to like
+
+literally just take that product
+
+experience and like do it but I I think
+
+it actually hits on a weird point which
+
+is like and and can you say again like
+
+you're this is literally just like a
+
+plugin built by someone else for
+
+obsidian or obsidian makes this
+
+themselves let me give them a shout out
+
+I can just spill it up uh
+
+obsidian uh
+
+writing um uh llm let's see because I'm
+
+curious I've looked around for a lot of
+
+these writing products and like most of
+
+them are just like very
+
+meh um so we can pause this right as in
+
+like
+
+I um I'm just going to look it up on my
+
+computer just that we can give them a
+
+shout out and also okay I think it's
+
+called smart comp so obsidian is a a
+
+product which is just like mark down um
+
+uh you know um markdown and plus like
+
+graph View and whatever anyways I mean
+
+I'm sure you're going to use cursor
+
+itself for this and just open up a
+
+markdown directory um and then within
+
+obsidian there's a plugin called smart
+
+composer um and that's what I've used
+
+for some of these projects um uh and
+
+then I literally go through paragraph by
+
+paragraph like here's here's my current
+
+paragraphs here's what I meant to say
+
+here's how I change things reorganize
+
+whatever whatever the same thing you do
+
+with code um works really
+
+well I love that we'll we'll include a
+
+link in the in the show notes for folks
+
+who want to try it I think I'm makes I'm
+
+not an obsidian user but um I'm uh I'm
+
+always looking for different writing
+
+tools and I me why isn't this a feature
+
+in gemini or like with Google Docs in
+
+Gemini it's a good question we'll make
+
+it happen feature request we'll talk to
+
+the teams uh I think it I think we need
+
+something like like that and and
+
+honestly like I think this is the this
+
+is the responsibility that the companies
+
+that have the large distribution
+
+channels have like I think people want
+
+this type of tool I think it's just a
+
+matter of like how do you do it in a
+
+really thoughtful way and make sure it's
+
+a great product experience so hopefully
+
+we'll do
+
+it I think another interesting thing and
+
+it kind of goes back to the use cases
+
+and I think it goes back to the trust
+
+you know you have to basically get a
+
+society to trust software to some extent
+
+you think about how you can trust
+
+firefighters police officers whatever
+
+the case is like what I'm I'm curious to
+
+hear from your perspective as talking to
+
+these people when they think that
+
+threshold will be met as far as right
+
+now we have technology to go in and
+
+actually do something that's a tangible
+
+outcome or again a use case that is
+
+actually gaining trust from society
+
+whether that's developing an actual
+
+solution to a drug that came strictly
+
+from AI I'm curious I mean there's
+
+obviously a lot of different examples of
+
+how it could progress and what would be
+
+first to Market but I'm yeah curious to
+
+kind of hear from your perspective
+
+domain wise or industry wise like what
+
+do you think potentially has leverage in
+
+actually creating some kind of tangible
+
+outcome to gain Trust in that Community
+
+around AI
+
+itself
+
+um I correct me if I misunderstood the
+
+question but uh in terms of like just
+
+like how you know if AI can do something
+
+how do you actually get people to use it
+
+to do the thing um I think like them
+
+becoming smarter goes a long way of um
+
+uh if you're just like I've noticed uh
+
+initial you know using the models a year
+
+or two ago I would have this like very
+
+um sort of like I like use it for fun
+
+almost or like maybe in case I'm missing
+
+something but I'm like not really like
+
+like I'm not like thinking of it as
+
+another colleague and now I like if I
+
+talk to another I just like genuinely I
+
+think of it as I'm talking to a human on
+
+the other end and I can give vague
+
+directions and it'll like kind of get
+
+solved and so forth and over time as it
+
+get smarter and smarter I think that
+
+like maybe I'm of the opinion that by
+
+default people will just like they will
+
+not think of this as something that's
+
+like a separate AI system that they have
+
+to be sort of skeptical of if anything
+
+they'll like by default be too trusting
+
+just because it just like feels like
+
+you're having a lifetime conversation
+
+with the real human
+
+being do you think the same thing will
+
+be true for like for like the robotic
+
+space with AI like will we have that
+
+same like default because I feel like
+
+today the today narrative is like
+
+default to not trusting the robots they
+
+kind of all look a little scary they're
+
+it's a little ominous um yeah yeah um I
+
+have no like I'm not sure uh
+
+I think robots maybe there like slightly
+
+more uncanny uh than that
+
+um uh but also I assume a lot of
+
+Robotics applications like don't need
+
+humans around that much if you're just
+
+like in a warehouse or something um uh I
+
+actually don't know like what do you
+
+what probably is the biggest like if the
+
+the industry in which like the robot
+
+robotics will make the most amount of
+
+money immediately or will have the
+
+highest application what would you say
+
+that is I would say Auto I mean my my
+
+initial thought when we were we were
+
+posing that question too it kind of goes
+
+back to wh you know it's a self-driving
+
+car you get to think of you know it's
+
+only in San Francisco you have all these
+
+people are you willing to jump in a car
+
+with no driver you know it takes a while
+
+then all a sudden you start building up
+
+enough rides right now you can look at
+
+how that actually compares to a normal
+
+individual driver as far as like the the
+
+benchmarks and data behind it and again
+
+that's where I think it's interesting
+
+now Whi is expanding into new cities
+
+like again I think there's interesting
+
+use cases that are going to be seen
+
+where it just takes that time that
+
+effort that really concentrated market
+
+adoption to then go out to the wider
+
+audience and gain that traction you know
+
+Tesla was self-driving cars like it's
+
+all it's all about getting trust and
+
+it's interesting to see where it go yeah
+
+yeah absolutely um yeah was a great
+
+example of that yeah and I think weo is
+
+actually like I think the challenge um
+
+like I think they have this like City by
+
+city like kind of trust to build which I
+
+think is like actually a really
+
+interesting framing of thinking about
+
+this at from like a software perspective
+
+for AI um and how like actually the
+
+mindset is very different like you could
+
+imagine a world where like you know in
+
+California and San Francisco future
+
+companies like that's actually the place
+
+where people are going to build these
+
+like AI enabled firms and like the the
+
+world is going to look so different for
+
+people doing that versus like do you
+
+want to have a AI enabled firm in your
+
+small town in Iowa or do you have wayo
+
+and you're small it's like just a weird
+
+a much different world uh in in that
+
+context yeah yeah I think this is
+
+another interesting followup question
+
+because we're talking very futuristic
+
+what's going to happen down the road and
+
+everyone who's listening to this podcast
+
+I'm sure is going to say you know what's
+
+going to happen to society how will
+
+Society Society adapt especially on the
+
+points of hey there's now these
+
+organizations that are all streamlined
+
+using AI like Curious to get your
+
+thought I think obviously we're so we're
+
+so early on where it's difficult to kind
+
+of picture that especially how quick
+
+technolog is popping up and things are
+
+changing but you know where do you think
+
+humans 10 15 years from now you know how
+
+how their role in society will change
+
+potentially um
+
+yeah I mean like right now like 60% of
+
+GDP is spent on labor um you know on
+
+wages and like uh that's a lot and it's
+
+going to like potentially go to closer
+
+to zero um even if like I mean even if
+
+you think like some people will still
+
+get paid a lot of money for like nannies
+
+or whatever kind of thing like even if
+
+GDP increases a lot um so like GDP will
+
+increase a lot and like the relative
+
+fraction which is paid to humans will
+
+continue to decrease like I I don't
+
+really think there's like a like I don't
+
+see how that wouldn't happen like how
+
+would the fraction that humans control
+
+go up um humans are paid in wages so
+
+yeah by like even if you have Ubi or
+
+something the relative um the relative
+
+importance of humans in the economy will
+
+continue to decrease in terms of most of
+
+the output and uh is like going to firms
+
+that are made up of AIS or going to
+
+Capital allocators who are themselves
+
+may be humans but are investing in AI
+
+stuff and so forth um and then I'm like
+
+honestly I don't know what what that
+
+will mean I mean people say that oh
+
+democracy won't go on because like
+
+democracy relies on the fact that uh the
+
+only reason you like have you know
+
+voting rights is because like you're
+
+economically valuable and if like or the
+
+general person is economically valuable
+
+and like the government had to INF
+
+franchise them in order to get their
+
+productivity or something um uh and then
+
+the idea is that like well if they're
+
+the ordinary person isn't that like
+
+valuable then the just like you know
+
+democracies get out competed by like
+
+these like AI firm slash uh you know AI
+
+firm government whatever things
+
+um uh that's one Theory I mean like I I
+
+think just like a lot of the most
+
+powerful countries in the world are
+
+these like democracies and so especially
+
+that's where the AI development is
+
+initially happening and I think
+
+especially if you like don't just like
+
+hit s like paws and let some like the
+
+UAE or whatever just like completely
+
+take the lead um uh then I guess yeah
+
+I'm just honestly not sure that's a long
+
+wited way of saying I'm like I don't
+
+know what's gonna happen I guess none
+
+none of us are sure yeah uh I think it's
+
+interesting too because I've tried to
+
+conceptualize it myself and from the
+
+conversation we had like I wonder if
+
+down the road like you're just going to
+
+see like a 100x influx of small
+
+businesses with like one to five
+
+employees and you're going to have that
+
+kind of SMB business crush it will be
+
+large Enterprise organizations that have
+
+the money can de do it and then all
+
+these tiny companies that are kind of
+
+working with these agentic systems again
+
+one to five people yeah it will be be
+
+interesting um I mean way it'll be tiny
+
+it could be tiny in the sense of like
+
+well you need the humans for the certain
+
+things that like maybe like somebody's
+
+got to go like go talk to the um you
+
+know like the the department of whatever
+
+whatever and like but like everything
+
+else can be the so in a way it'll be
+
+small in like that's term but like it'll
+
+be a Hu like the biggest companies ever
+
+there'll be like millions of employees
+
+and uh they'll all just be AIS
+
+yeah your your your comment about uh
+
+democracy reminded me that I wanted to
+
+get your take just as someone who spent
+
+a bunch of time like uh somewhat outside
+
+the AI domain but also in like you spend
+
+a much time talking to like geopolitical
+
+figures as well um I'm curious if you
+
+have a take on like whether or not we're
+
+going to see any like National AI
+
+efforts um and like actually your
+
+reaction to like the fact that we
+
+haven't seen any like I think actually
+
+two years ago if you would have asked me
+
+like today sitting in 2025 like would we
+
+have like any
+
+Frontier um like government acted AI
+
+research happening um I probably would
+
+have answered yes to be honestly it
+
+seems like very logical and we haven't
+
+seen that or at least like it doesn't
+
+seem like those folks are at the
+
+frontier if they're doing that work so
+
+I'm curious like what your meta take is
+
+on
+
+that yeah I um there's like a question
+
+of like will like a sort of like
+
+National project win and there's another
+
+question of like will will it by default
+
+then be nationalized anyways even if
+
+that's not like the most competitive
+
+thing um given like how powerful AI but
+
+I mean even to your point like yeah it
+
+doesn't seem like the government has
+
+like done something which Su just that
+
+they're like on the brink of
+
+nationalizing on the other hand as we
+
+saw in Co things can happen really fast
+
+right so just like going from you're not
+
+even thinking about this to like def
+
+you're using the defense production act
+
+to um um like make factories for uh
+
+masks and so forth and like speed and so
+
+forth so I don't know what will happen
+
+in the end game um but it does seem in
+
+terms of like I like um maybe a public
+
+private partnership could be like from
+
+purely technical perspective could maybe
+
+work but the idea that like you could
+
+just have the whole thing like just run
+
+by the government it just like there's
+
+like at least in like recent history
+
+there's really not good examples of
+
+governments running like successful Tech
+
+projects like this at um maybe I'm like
+
+talking out a turn actually like maybe
+
+there's like a other things the
+
+government does which are yeah I don't
+
+know is something the government does
+
+which is like super Hightech and like
+
+they're doing it at incredibly High
+
+competence um very possible there is but
+
+I'm not sure if yeah I'm like get I I
+
+feel like this is maybe my Darkhorse
+
+suggestion but I'm like just let NASA do
+
+it like I kind of like I know NASA has
+
+its challenges and like it's you know
+
+they it's expensive to build stuff and
+
+there's some perverse incentives but I'm
+
+like I actually do think and this is my
+
+bias um like I do think it'd be
+
+interesting to see they've got enough
+
+smart people like they have this sort of
+
+history of innovation it's like
+
+uh if you look at like the American
+
+identity is actually like so and like
+
+obviously I think the US needs this
+
+slightly less than like larger other
+
+large companies outside or large
+
+countries outside the US but um I feel
+
+like that seems like a like having a
+
+space program du this would be really
+
+interesting yeah I the other question is
+
+like why why is that needed right like
+
+um fundamentally like I guess like deep
+
+seek or there's other things that have
+
+showed that like like we're not in the
+
+territory where you need to like have a
+
+like invest trillions of dollars to you
+
+know you could like if you had the
+
+talent and if you had the ability to
+
+execute like it seems like you could
+
+like do good things here I mean like you
+
+could make the thing that like the the
+
+next llm rapper that like Google's gonna
+
+make internally that's gonna go viral
+
+right like maybe you could make that um
+
+and that's not like sort of funding
+
+bottl NE and maybe just a matter of like
+
+Get I don't know if it's getting out of
+
+the way but maybe that's not enough like
+
+I maybe like need some dense
+
+concentration of like that as you were
+
+saying just like breathing the ideas or
+
+something but um either way not sure how
+
+the national you know like the
+
+government partnership helps you that
+
+much yeah I think it's this hedge on um
+
+like the chance that like there's no
+
+like you know even deep seek is under no
+
+obligation to continue to they could
+
+decide eh we actually really like this
+
+stuff for ourselves yeah so I'm do you
+
+think like that's like a viable like and
+
+maybe like China's not a good example
+
+but like other world governments that
+
+like want to be um want to sort of have
+
+this hedge on the concentration of power
+
+like assuming this actually plays out in
+
+the way that everyone thinks that it
+
+does like if if you you know you get a
+
+call from prime minister of India and
+
+they're like hey you know should we be
+
+doing our own National AI effort to to
+
+compete with you know open Ai and etc
+
+etc I I mean like I have like uh two
+
+answers like in one sense I think they
+
+are right like you're you're kind of
+
+[ __ ] if you're like like this is going
+
+to be the main thing right historically
+
+what really matters is like um
+
+population size really matter
+
+cuz even if your GDP per capita is like
+
+half of another countries if you have 4X
+
+population you know it like really
+
+swamps other considerations um and so
+
+that's why bigger countries by default
+
+are just uh know more powerful and now
+
+if like your population your like
+
+intellectual Capital your other like
+
+goods and services are being provided by
+
+AIS then yeah being at the Forefront
+
+there and having leverage over the
+
+system is that quite valuable now but
+
+then there's a question of like okay if
+
+you are like the leader of India I mean
+
+India maybe is like slightly as true but
+
+if like Nigeria or something where it's
+
+like yeah you've got a lot of smart
+
+people but like your institutions are
+
+kind
+
+of like I I don't know what you do right
+
+like you're kind of I I feel like you're
+
+kind of screwed um like maybe you try to
+
+like the entire um the entire like
+
+Sovereign wealth fund goes towards
+
+acquiring deep seek or something but uh
+
+other than that I'm not sure like what
+
+what exactly I mean even in India I yeah
+
+I guess like I would just like really
+
+not try to like go like just do a bunch
+
+of different like random things and like
+
+really make concentrated bets on
+
+the most talented teams and like you
+
+have to make this happen sort of like
+
+NASA style but I'm not sure exactly how
+
+you do that and I think that's where
+
+like kind of the regulation conversation
+
+is coming in because to some extent you
+
+kind of have a disadvantage similar to
+
+potentially if you're in a large
+
+organization in a government position
+
+right like there's all these regulations
+
+check and balances compared to the
+
+startups who are kind of like hey hit
+
+the ground running we don't we have a
+
+lot less responsibility a lot less
+
+pressure in our shoulders so let's just
+
+try to hit shoot for the stars and you
+
+know if we we missed we miss compared to
+
+obviously some other other folks um all
+
+right trying to be cautious of time so
+
+we always like to end our our podcast
+
+with two questions you kind of hit on
+
+the first question already but curious
+
+if there's any other tools uh we like to
+
+ask people what their personal Tex stack
+
+is um so I'll let you answer that one
+
+and I'll rifle off the
+
+second that I mean that and then like
+
+Google Docs um uh um a lot of using
+
+Claude for just like general research
+
+and tutoring and so forth
+
+um uh yeah that's about it it's uh you
+
+know at the end of the day it is a
+
+podcast and so I'm not I'm not exactly
+
+cranking through the the most advanced
+
+things uh but um sorry well and then I
+
+don't know if you were about to mention
+
+yeah yeah yeah I was going to say keep
+
+it easy and simple I mean to your point
+
+uh why why complicate things if they're
+
+working um the last question we like to
+
+ask our guest is you know one thing that
+
+you hope happens in 2025 and then one
+
+thing you do not and we'll keep it very
+
+broad for you to kind of interpret and
+
+and answer as you
+
+wish I hope was um
+
+there's like a question I have for me
+
+personally and then there sorry the
+
+answer I have for me personally and an
+
+answer I have for I don't know the world
+
+for me personally it's just like lm's
+
+get good enough that a lot of the post-
+
+production stuff I do gets automated um
+
+uh um that's probably not interesting to
+
+the rest of the world I mean for the
+
+rest of the world just like a fully yeah
+
+maybe this is actually quite relevant to
+
+both um fully automated software
+
+engineer would mean that all these like
+
+little scripts I write or whatever can
+
+just be like fundamentally you know
+
+we're getting to kerser where you like
+
+do the vibe coding thing Andre Kathy was
+
+talking about like but maybe just like
+
+that that whole interface goes away and
+
+I'm just like I want this kind of
+
+workflow for like getting from MP3 files
+
+to all the resources I need for you know
+
+like the Twitter clips and whatever um
+
+uh and all that just is like totally
+
+abstracted away and what I hope doesn't
+
+happen
+
+um I guess I would be I I would be
+
+I would hate for this like maybe like
+
+some like really unfortunate sort of
+
+political veence added to AI where it
+
+gets really polarized in an unfortunate
+
+way where either it just becomes
+
+like I don't know I mean I'm somebody
+
+who like really believes in the
+
+potential of fori and itd be
+
+disappointed if like uh one major
+
+political faction is just like yeah we
+
+got to ban Ai and it's evil or something
+
+and it would also be disappointed if
+
+then one major political faction is just
+
+like um like you know we don't have to
+
+worry about uh what's going to happen
+
+after the intelligence explosion and
+
+like just like we not taking that
+
+seriously in fact that's like you you're
+
+actually like bad because like you're
+
+not thinking about like ethics and like
+
+racism and whatever because you're
+
+you're actually thinking about like the
+
+int anyways I I could see where pH which
+
+the political uh situation might um
+
+that's what I would hope wouldn't happen
+
+is like the the bigger picture thing
+
+gets
+
+ignored yeah and my my very fast bonus
+
+question is if you could ways the wave
+
+the magic wand and have the models have
+
+like one new capability and I think like
+
+maybe tangential to automated AI
+
+software engineer like is there anything
+
+like very specific that you want to have
+
+happen um better
+
+taste and just like really um re like
+
+yeah just being super opinionated and
+
+having better taste I like that we might
+
+be able to get you that so uh this was
+
+this was a ton of fun uh thanks for
+
+thanks for shooting the [ __ ] with us and
+
+uh and talking through stuff um yeah I
+
+appreciate it yeah no it was super fun
+
+thanks so much for making the time guys
+
+yeah
+

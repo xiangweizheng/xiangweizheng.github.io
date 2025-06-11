@@ -1,0 +1,2972 @@
+why has generative AI ingested all the
+
+world's knowledge but not been able to
+
+come up with scientific discoveries of
+
+its own and has it finally starting to
+
+understand the physical world we'll
+
+discuss it with meta Chief AI scientist
+
+and touring Award winner Yan laon
+
+welcome to Big technology podcast a show
+
+for cool-headed nuance conversation of
+
+the tech world and Beyond I'm Alex cans
+
+and I am thrilled to welcome Yan laon
+
+the chief AI scientist touring Award
+
+winner and a man known as The Godfather
+
+of AI to Big technology podcast Yan
+
+great to see you again welcome to the
+
+show pleasure to be here let's start
+
+with a question about scientific
+
+discovery and why AI has not been able
+
+to come up with it until this point this
+
+is coming from dwares Patel he asked it
+
+a couple months ago why do you make of
+
+the fact that AIS generative AI
+
+basically have the entire Corpus of
+
+human knowledge memorized and they
+
+haven't been able to make a single new
+
+connection that has led to Discovery
+
+whereas if even a moderately intelligent
+
+person had this much stuff memorized uh
+
+they would notice oh this thing causes
+
+this symptom this other thing causes
+
+this symptom there might be a medical
+
+cure here so shouldn't we be expecting
+
+that type that type of stuff from AI
+
+well from AI yes from large NE models no
+
+you know there's several types of AI
+
+architectures right and and all of a
+
+sudden when we talk about AI we imagine
+
+chatbots chatbots LMS are trained on an
+
+enormous amount of of knowledge which is
+
+purely text and they're trained to
+
+basically regurgitate to retrieve to uh
+
+essentially produce answers that are
+
+conform to the statistics of whatever
+
+text they've been trained on and it's
+
+amazing what you can do with them it's
+
+very useful there's no question about it
+
+uh we also know that they can
+
+hallucinate facts that AR true uh but
+
+they really in their purest form they
+
+are incapable of inventing new things
+
+let me throw out this perspective that
+
+uh Tom Wolf from hugging face shared on
+
+LinkedIn over the past week I know you
+
+were involved in a discussion about it
+
+it's very interesting he says to create
+
+an Einstein in a data center we don't
+
+just need a system that knows all the
+
+answers but rather one that can ask
+
+questions nobody else has thought or
+
+dared to ask one that writes what if
+
+everything everyone is wrong about this
+
+when all texperts textbooks experts and
+
+common knowledge suggest
+
+otherwise is it possible to teach llm to
+
+do that no
+
+no not not in the current form uh I mean
+
+and and whatever form of AI would be
+
+able to do that will not be llms they
+
+might use llm as one component llms are
+
+useful to
+
+turn uh you know to produce text okay so
+
+we might in the future AI systems we
+
+might use them to turn abstract thoughts
+
+into into
+
+language uh in the human brain that's
+
+done by a tiny little brain area right
+
+here called the BR area it's about this
+
+big um that's our LM okay but we don't
+
+think in language we think in uh you
+
+know mental representations of a
+
+situation we have mental models of
+
+everything we think about we can think
+
+even if we can speak uh and that takes
+
+place here that's like you know where
+
+real intelligence is and that's the part
+
+that we haven't reproduced certainly
+
+with with llm so the question is
+
+um you know is are we going to have
+
+eventually ai architectures ai systems
+
+that are capable of U not just answering
+
+questions that already there but solving
+
+giving new solutions to problems that we
+
+specify the answer is yes eventually not
+
+with current TMS um and then the next
+
+question is are they going to be able to
+
+ask their own questions like figure out
+
+what are the good questions to answer
+
+and the answer is eventually yes but
+
+that's going to take a while before we
+
+get machines that are capable of this
+
+like you know in in humans we we have
+
+all the characteristic we have people
+
+who are who have extremely good memory
+
+they can um you know retrieve a lot of
+
+things they have a lot of accumulated
+
+knowledge um we have people who are
+
+problem solvers right you give them a
+
+problem they'll solve it and I think uh
+
+Toma was actually talking about this
+
+kind of stuff he said like you know if
+
+you're good at school you're a good
+
+Problem Solver we give you a problem you
+
+can solve it um and you score well in
+
+math or physics or whatever it is um but
+
+then in research the the most difficult
+
+thing is to actually ask the right to
+
+ask the the the good questions what are
+
+the important questions it's not just
+
+solving the problem it's also asking the
+
+right questions kind of framing uh a
+
+problem you know in the right way so so
+
+you have kind of uh new insight and and
+
+then after that comes okay I need to
+
+turn this into equations or into
+
+something you know practical a model um
+
+and that may be a different scale from
+
+the one that as the the the right
+
+questions might be a different scale
+
+also to um solve equations the people
+
+who write the equations are not
+
+necessarily the people who write them
+
+who who solve them um and other people
+
+who remember that there is you know some
+
+textbook from 100 years ago where
+
+similar equations were solved right
+
+those are three different skills so LMS
+
+are really good at retrieval not good at
+
+solving new problems get you know
+
+finding new solutions to new problems
+
+they can retrieve existing Solutions and
+
+they're certainly not good at all at
+
+asking the right questions and for those
+
+tuning in and and learning about this
+
+for the first time LMS is the technology
+
+behind things like the GPT model that's
+
+within baked within uh Chad GPT but let
+
+let me ask you this Yan so the AI field
+
+does seem to have moved from standard
+
+llms to LMS that can reason uh and go
+
+step by step and I'm curious can can you
+
+program this this sort of
+
+counterintuitive or uh this heretical
+
+thinking by imbuing a reasoning model
+
+with an instruction to question its
+
+directives well so we have to figure out
+
+what reasoning really mean okay and
+
+there are um you know obviously everyone
+
+is trying to um get
+
+llms to reason to some extent to perhaps
+
+be able to check whether the answer they
+
+produced are correct
+
+um
+
+and the way people are approaching the
+
+problem at the moment is that they
+
+basically are trying to do this by
+
+modifying the current Paradigm without
+
+completely changing it okay so can you
+
+you know bolt a couple WS on top of llm
+
+so that you kind of have some
+
+primitive um reasoning function and
+
+that's essentially what a lot of
+
+reasoning systems are doing you know
+
+when way
+
+of uh getting itms to kind of appear to
+
+reason is Chain of Thought right so you
+
+basically tell them to generate more
+
+tokens than they really need to in the
+
+hope that in the process of generating
+
+those tokens they're going to devote
+
+more computation to answering a question
+
+and uh to some extent that works
+
+surprisingly but but it's very limited
+
+you don't actually get uh real reasoning
+
+um out of this uh reasoning at least in
+
+classical AI is in many domain um
+
+involves a search through a space of
+
+potential Solutions okay so you have a
+
+problem to solve you can characterize
+
+whether the problem is solved or not so
+
+you have some way of telling whether the
+
+problem is solved um and then you search
+
+through a space of solutions for when
+
+that actually satisfies the the
+
+constraints or you know is is identified
+
+as being a solution
+
+um and that you know that's how that's
+
+kind of the most general form of of
+
+reasoning you can imagine there is no
+
+mechanism at all in llms for this search
+
+mechanism what you have is you have to
+
+kind of Bolt this on top of it right so
+
+one way to do this is you get an LM to
+
+produce lots and lots and lots of
+
+sequences of answers right sequences of
+
+tokens which you know represent answers
+
+and then you have a separate system that
+
+picks which one is good okay this is a
+
+bit like writing a program by sort of
+
+randomly more or less generating
+
+instructions um you know while maybe
+
+respecting the grammar of the of the
+
+language uh and then checking all of
+
+those programs for when that actually
+
+works it not a good way not a very
+
+efficient way of producing correct
+
+pieces of code it's not a good way of
+
+reasoning uh either so um a big issue
+
+there is is that when when humans or
+
+animals reason we don't do it in token
+
+space in other words when we reason we
+
+don't have to you know generate a text
+
+that expresses solution um and then
+
+generate another one and then generate
+
+another one and then among other ones we
+
+we produce pick the one that is good we
+
+reason internally right we have a mental
+
+model of the situation and we manipulate
+
+it in our head and we find kind of a
+
+good solution when we plan a sequence of
+
+actions to I don't know you know build a
+
+table or something um we we plan the
+
+sequence of action you know we have a
+
+mental model of that in your head if I
+
+if I tell you and this has nothing to do
+
+with language okay so if I tell you
+
+imagine a cube floating in front in
+
+front of us right now now rotate that
+
+Cube 90° along a vertical axis okay you
+
+can imagine this this thing taking place
+
+and you can readily observe that it's a
+
+cube if I wrot it it 90° it's going to
+
+look just like the cube that I started
+
+with okay um because you have this metal
+
+model of of a cube um and that reasoning
+
+is in some abstract continuous space
+
+it's not in text it's not related to
+
+language or or anything like that um and
+
+humans do this all the time animals do
+
+this all the time and this is what we
+
+yet cannot reproduce uh with with
+
+machines yeah it reminds me you're
+
+talking through Chain of Thought and how
+
+it doesn't produce much novel insights
+
+and um when deep SE came out one of the
+
+big screenshots that was going around
+
+was someone asking deep seek for a novel
+
+Insight on The Human Condition and as
+
+you read it it's one another one of
+
+these very like clever tricks the AI PS
+
+because it does seem like it's running
+
+through all these different like very
+
+interesting observations about humans
+
+how we take our uh our our hate like our
+
+violent side and we Channel it towards
+
+cooperation instead of competition and
+
+that helps us build more and then you're
+
+like as you read The Chain of Thought
+
+you're like this is kind of just like
+
+you read sapiens and maybe some other
+
+books and that's your Chain of Thought
+
+pretty much yeah I mean yeah a lot of it
+
+is uh regation I'm now going to move a
+
+part the conversation I had later closer
+
+up which is the wall uh effectively is
+
+training standard large language models
+
+coming close to hitting a wall whereas
+
+before there was somewhat predictable uh
+
+returns if you put a number a certain
+
+amount of data and a certain amount of
+
+compute towards training these models
+
+you can make them predictably better um
+
+as we're talking it seems to me like you
+
+believe that that is eventually not
+
+going to be true
+
+well it I don't know if I would call it
+
+a wall but it's certainly diminishing
+
+return in the sense that you know we've
+
+kind of run out of natural Text data to
+
+train those those llms where they're
+
+already trained with you know on the
+
+order of uh you know 10 to the 13 or 10
+
+to the 14 tokens that's a lot that's a
+
+lot and that's the the whole internet
+
+that's all the publicly available
+
+internet and then you know some
+
+company's license uh uh content that is
+
+not publicly available and then there is
+
+talks about like you know generating
+
+artificial data and then hiring
+
+thousands of people to kind of you know
+
+generate more data other knowledge phds
+
+and professors yeah but in fact it could
+
+be even simpler than this because most
+
+of the systems actually don't understand
+
+basic logic for example right so um so
+
+to some extent you know there going to
+
+be slow
+
+progress uh along those lines with uh
+
+synthetic data with you know hiring more
+
+people to you know plug the holes in the
+
+in the sort of you know knowledge
+
+background of uh of uh of of those
+
+systems but but it's diminishing return
+
+right the the costs are ballooning of uh
+
+generating that data and the the returns
+
+are are are not not that great so we
+
+need a new paradig okay we need um a new
+
+kind of architecture of systems that at
+
+the you know at the core are capable of
+
+those uh search and uh um you know
+
+searching for a good solution checking
+
+whether that solution is good planning
+
+for a sequence of actions to arrive at a
+
+particular goal which is what you would
+
+need for an agentic system to really
+
+work everybody is talking about agentic
+
+system nobody has any idea how to build
+
+them other than uh basically
+
+regurgitating plant that have the system
+
+has already been trained on okay so you
+
+know it's like it's like everything in
+
+computer science you you can you can
+
+engineer a
+
+solution uh which is limited for for in
+
+the context of AI
+
+uh you
+
+can make a system that is you know based
+
+on on learning or retrieval with
+
+enormous amounts of data but really the
+
+complex things the complex thing is uh
+
+how you build a system that can solve
+
+new problems without being trained to
+
+solve those problems we are capable of
+
+doing this animals are capable of doing
+
+this facing a new situation we can
+
+either uh Solve IT zero shot without
+
+without training ourselves to handle
+
+that situation just a first time we
+
+encounter
+
+it or we can learn to solve it extremely
+
+quickly so for example um you know we we
+
+we can learn to drive in you know couple
+
+dozen hours of practice
+
+um and to the point that after 20 30
+
+hours it becomes kind of a second nature
+
+where this become kind of subconscious
+
+we don't don't think about it you don't
+
+need to think about it you can speaking
+
+of system one system two right that's
+
+right so you know the we calls the
+
+discussion we had with with Denny kenman
+
+a few years ago so um you know the the
+
+first time you drive your system too is
+
+all uh present you have to use it to
+
+imagine all kind of catastroph scenarios
+
+and stuff like that right your full
+
+attention is devoted to to driving but
+
+then after a number of hours you know
+
+you can talk to someone at the same time
+
+like you don't need to think about it
+
+it's become sort of subconscious and
+
+more or less automatic um it's become
+
+system one and pretty much every task
+
+that we
+
+you know learn that we accomplished the
+
+first time we have to use the full power
+
+of our of our minds and then eventually
+
+if we repeat them uh sufficiently many
+
+times they get they get kind of
+
+subconscious I have this vivid memory of
+
+uh once being in a a workshop where one
+
+of the participants was a chess grandmas
+
+and he played a simultaneous game
+
+against like 50 of us right you know
+
+going from from one person to another
+
+you know I got wiped out in 10 turns or
+
+something I'm terrible the chess right
+
+but um so he would come you know come to
+
+my my table and you
+
+know had time to think about this cuz he
+
+you know he was playing the other 50
+
+tables or something so I make my move in
+
+front of it it goes like what and then
+
+immediately plays so I doesn't have to
+
+think about it um I was not a a
+
+challenging enough opponent that he had
+
+to actually call his system two his
+
+system one was sufficient to beat me um
+
+and uh what that tells you is that when
+
+you become familiar with the task and
+
+you you train you train yourself you
+
+know it it kind of uh become
+
+subconscious but the but the essential
+
+ability of humans and many animals is
+
+that when you face a new situation you
+
+you
+
+can think about it figure out a sequence
+
+of actions a course of action to
+
+accomplish a goal um and you don't need
+
+to know much about about the situation
+
+other than your common knowledge of how
+
+the world Works basically that's what
+
+we're missing okay with the with the I
+
+systems
+
+and it's okay now now I really have to
+
+blow up the order here because youve
+
+said some very interesting things that
+
+we have to talk about um you talked
+
+about how basically llms have hit the
+
+point of diminishing returns large
+
+language models the things that have
+
+gotten us here and we need a new
+
+paradigm but it also seems to me that
+
+that new paradigm is isn't here yet and
+
+I know you're working on the research
+
+for it and we're going to talk about
+
+that what the next new paradigm might be
+
+but there's a real timeline issue don't
+
+you think because I'm just thinking
+
+about the money that's been raised and
+
+put into this yes last year 6.6 billion
+
+to open AI uh last week or a couple
+
+weeks ago another three and a half
+
+billion to anthropic after they raised 4
+
+billion uh last year Elon Musk is
+
+putting another you know another small
+
+fortune into into building grock these
+
+are all llm first companies they're not
+
+searching out the ne I mean maybe open
+
+AI is but that 6.6 billion that they got
+
+was because of chat GPT so
+
+where's this field going to go because
+
+if that money is being invested into
+
+something that is at the point of
+
+diminishing returns requiring a new
+
+paradigm to progress that sounds like a
+
+real problem well um I mean we have some
+
+ideas about what this parad uh is the
+
+the difficulty that I mean what we're
+
+working on is trying to make it work um
+
+and it's you know it's not simple that
+
+that take that may take uh that may take
+
+years and so the question is um is the
+
+the all the capabilities we're talking
+
+about perhaps through this new paradigm
+
+that we're thinking of that we're
+
+working on uh is it going to come uh
+
+quickly enough to justify all all of
+
+this uh
+
+investment uh and if it doesn't come
+
+quickly enough is the investment still
+
+Justified okay so the first thing you
+
+can say is we are not going to get to
+
+human level AI by just scaning up LMS
+
+this is just not going to happen Okay
+
+that's your perspective is no way okay
+
+absolutely no way um and and whatever
+
+you can hear from some of my uh more
+
+adventurous colleagues uh it's not going
+
+to happen within the next two years
+
+there's absolutely no way in hell to you
+
+know pardon my French um the you know
+
+the idea that we we're going to have you
+
+know a country of Genius in the data
+
+center that's complete BS right it's
+
+absolutely no way what we're going to
+
+have maybe is systems that are trained
+
+on sufficiently large amounts of data
+
+that
+
+any question that any reasonable person
+
+may ask will will find an answer through
+
+those systems and it would feel like you
+
+have you know a PhD sitting next to you
+
+but it's not a PhD you have next to you
+
+it's you know a system with gigantic uh
+
+memory and retrieval ability not not a
+
+system that can invent solutions to to
+
+new problems um which is really what a
+
+phg is okay this is actually it's it's
+
+you know connected to this post that uh
+
+Tom Tom
+
+W made that uh um you you you
+
+you inventing new things you know
+
+requires
+
+uh the the type of uh skill and
+
+abilities that uh you're not going to
+
+get from from from ANS so
+
+um so this's big question which is the
+
+investment that is being done now is not
+
+done for tomorrow it's not it's done for
+
+you know the next few years
+
+and most of the investment at least for
+
+from The Meta side is investment in uh
+
+infrastructure for inference okay so
+
+let's imagine that by the end of the
+
+year which is really the plan at MAA we
+
+have 1 billion users of meta AI through
+
+smart glasses you know Standalone app
+
+and and whatever um you got to serve
+
+those people and that's a lot of
+
+computation so that's why you need you
+
+know a lot of investment in
+
+infrastructure to be able to scale this
+
+up and you know build it up over months
+
+or or years
+
+um and so that you know that's where
+
+most of the money is going um at least
+
+on on you know on the side of companies
+
+like like like MAA Microsoft and and and
+
+Google and potentially
+
+Amazon
+
+um then there is so this is just
+
+operations essentially now is there
+
+going to be the the market for um you
+
+know 1 billion people using those things
+
+regularly even if there is no change of
+
+Paradigm and the answer is probably yes
+
+so you know even if the revolution of
+
+new paradigm doesn't come you know
+
+within three years this infrastructure
+
+is going to be used is there's very
+
+little question about that okay so it's
+
+a good investment and it takes so long
+
+to set up you know data centers and all
+
+that stuff that you need to to get
+
+started now and plan for you know
+
+progress to be continuous uh so that uh
+
+you know eventually the investment is is
+
+Justified but you can't afford not to do
+
+it right because um because there would
+
+be too much of a of a risk to take if
+
+you have the cash but let's go back to
+
+what you said the stuff today is still
+
+deeply flawed and there have been
+
+questions about whether it's going to be
+
+used now meta is making this consumer
+
+BET right the consumers want to use the
+
+AI that makes sense open AI has 400
+
+million users of chat
+
+GPT meta has three four billion I mean
+
+basically if you have a phone three 3
+
+something billion
+
+users uh 600 million users of
+
+M right okay so more than chat jpt yeah
+
+but but it's not used as much as so the
+
+users are not as intense but basically
+
+the idea that that meta can get to a
+
+billion consumer users yeah that seems
+
+reasonable but the thing is a lot of
+
+this investment has been made with the
+
+idea that this will be useful to
+
+Enterprises uh not just a consumer app
+
+and there's a problem because like we've
+
+been talking about but it's not good
+
+enough yet uh you look at Deep research
+
+this is something Benedict devans has
+
+brought up deep research is pretty good
+
+but it might only get you 95% of the way
+
+there and maybe 5% of it hallucinates so
+
+if you have a 100 page research report
+
+and 5% of it is wrong and you don't know
+
+what 5% that's that's a problem and
+
+similarly in in Enterprises
+
+today all every Enterprise is trying to
+
+figure out how to make uh AI useful to
+
+them uh generative AI useful to them and
+
+other types of AI uh but only 10% or 20%
+
+maybe of proof of Concepts make it out
+
+the door into production because there
+
+it's either too expensive or it's
+
+fallible so if this is if we are getting
+
+to the top here uh what do you
+
+anticipate is going to happen with with
+
+everything that's that that has been
+
+pushed in the anticipation that it is
+
+going to get even better from
+
+here well so again it's a question
+
+timeline right when when are those
+
+systems going to become sufficiently
+
+reliable and intelligent so that the
+
+deployment is made easier um but but you
+
+know I mean this this situation you're
+
+describing
+
+that you know beyond the impressive
+
+demos actually deploying systems that
+
+are reliable is where things tend to
+
+falter in in the use of computers and
+
+Technologies and particularly AI this is
+
+not new um it's it's
+
+basically um you know why we we had
+
+super
+
+impressive you know autonomous driving
+
+demos 10 years ago um but we still don't
+
+have level five s driving cars right um
+
+it's the last mile that's really
+
+difficult uh so to speak for cars you
+
+know it's you know the last the last
+
+few that was not deliberate the you know
+
+last few few percent of reliability
+
+which makes a system uh practical um and
+
+how you integrate it with sort of
+
+existing systems and and and blah blah
+
+blah and you know how it makes uh users
+
+of it more efficient if you want or more
+
+reliable or or whatever um that's where
+
+that's where it's that's where it's
+
+difficult um and you know this is why if
+
+we take if we go back several several
+
+years and we look what happened with IDM
+
+wetson okay so wetson was going to be
+
+the thing that you know IBM was was
+
+going to push and generate tons of
+
+Revenue by by having wson uh you know
+
+learn about medicine and then be
+
+deployed in every um every
+
+hospital and it was basically a complete
+
+failure and was sold for parts right um
+
+and cost a lot of money to to IBM
+
+including the CEO and the what happens
+
+is that actually deploying those system
+
+in in situations where they are reliable
+
+and and actually help people and don't
+
+like hurt the natural conservativism of
+
+the of the labor force um this is where
+
+things become complicated we're seeing
+
+the same you know the process we're
+
+seeing now with the difficulty of
+
+deploying a system is not new it's it's
+
+it's happened absolutely at at all times
+
+this is also why you know some some of
+
+your listeners perhaps are too young to
+
+remember this but there was a big wave
+
+of interest in AI in 1980s early 1980s
+
+um around expert systems um and you know
+
+the the hottest job in the 1980s was
+
+going was going to be knowledge engineer
+
+and your job was going to be to sit next
+
+to an expert and then you know turn the
+
+knowledge of the expert into rules and
+
+facts that would then be fed to a um
+
+inference engine that would be able to
+
+kind of derive new facts and and answer
+
+questions and blah blah blah um big wave
+
+of interest uh the ja government started
+
+a big program called fifth generation
+
+computer the hardware was going to be
+
+designed to actually take care of that
+
+and blah blah blah you know mostly
+
+mostly a failure there was kind of
+
+a you know the wave of Interest kind of
+
+died in the the mid90s about this and
+
+and you know a few companies were
+
+successful but basically for a narrow
+
+set of applications for which you could
+
+actually reduce human knowledge to a
+
+bunch of rules and for which um it was
+
+econom economically feasible to do so um
+
+but the the the wide ranging impact on
+
+all of society and industry was just not
+
+there and so that's a denture of uh of
+
+AI all the time um I mean the the
+
+signals are clear that you know still um
+
+llms with all the Bears and whistles
+
+actually play an important role if
+
+nothing else for information retrieval
+
+uh you know most companies want to have
+
+some sort of internal experts that know
+
+all the internal documents so that any
+
+employee can ask any question we have
+
+one at MAA it's called Metate it's
+
+really cool it's very useful yeah and
+
+I'm I'm not suggesting that AI is gonna
+
+that modern AI is not or modern general
+
+of AI is not useful or U I'm I'm asking
+
+purely that there's been a lot of money
+
+that's been invested into expecting this
+
+stuff to effectively achieve God level
+
+capabilities and we both are talking
+
+about how like there's you know
+
+potentially diminishing returns here and
+
+then what happens if there's that
+
+timeline mismatch like you mentioned and
+
+um this is the last question I'll ask
+
+about it because I feel like we have so
+
+much else to cover but I feel like
+
+timeline mismatches uh that might be
+
+personal to you you and I first spoke
+
+nine years ago which is crazy now nine
+
+years ago uh and you know about how in
+
+the early days you had an idea for how
+
+AI should be structured and you couldn't
+
+even get a seat at the conferences um
+
+and then eventually with the right
+
+amount of when when the right amount of
+
+compute came around those ideas started
+
+working and then the entire AI field
+
+took off based off of your idea that you
+
+you worked on with Benjo and Hinton um
+
+but and a bunch of others and many
+
+others uh and but for the sake of
+
+efficiency we'll say go look it up um
+
+but just talking about those mismatch
+
+timelines when there have been overhyped
+
+moments uh the AI field maybe with the
+
+expert systems that you were just
+
+talking about and they don't pan out the
+
+way that people expect the AI field goes
+
+into what's called AI winter well
+
+there's a backlash yeah correct and so
+
+if we're going to if we are potentially
+
+approaching this moment of mismatch
+
+timelines do you fear that there could
+
+be another winter now given the amount
+
+of investment uh given the fact that
+
+there's going to be potentially
+
+diminishing returns with the main way of
+
+training these things and maybe we'll
+
+add in the fact that the market is is
+
+the stock market looks like it's going
+
+through a bit of a downturn right now
+
+now that's a variable uh probably the
+
+third most important variable of what
+
+we're talking about but it has to factor
+
+so I yeah I I think um I mean there's
+
+certainly a question of timing there but
+
+I think uh if we try to dig a little bit
+
+deeper um as I said before if you think
+
+that we're going to get to human level
+
+AI by just training on more data and
+
+scanning up LMS you're making a mistake
+
+so if you're if you're an investor and
+
+you invested in a company that told you
+
+we're going to get to human level Ai and
+
+PhD level by just you know training on
+
+more data and with a few tricks um I
+
+don't know if you're going to use your
+
+shirt but that was probably not a good
+
+idea um however there are ideas about
+
+how to uh go forward and have systems
+
+that are capable of doing what what
+
+every intelligent animal and and human
+
+are capable of doing and that current a
+
+systems are not capable of doing and I'm
+
+I'm talking about understanding the
+
+physical world
+
+um having persistent memory and being
+
+able to reason and plan those are the
+
+four characteristics that that you know
+
+need to be there um and that require
+
+systems that you know can acquire common
+
+sense that can learn from uh natural
+
+sensors like video as opposed to just
+
+text just human produced uh data um and
+
+that's a big challenge I mean I've been
+
+talking about this for many years now
+
+and uh and saying this is this is where
+
+the challenge is this is what we have to
+
+uh to figure out and and
+
+my group and I have or people working
+
+with me and others who have listened to
+
+me are making progress along along this
+
+line uh of uh system that can be trained
+
+to understand how the world works on
+
+video for example systems that can use
+
+Mental models of how the world the
+
+physical world Works to plan sequences
+
+of actions to arrive at a particular
+
+goal so we we have kind of early results
+
+of this kind of systems U and there are
+
+people at Deep mind working on similar
+
+things and there you know people in
+
+various universities working on this uh
+
+so um the question is you know when is
+
+this going to go from uh interesting
+
+research papers uh demonstrating a new
+
+capability with a new architecture to
+
+you know architectures at scale that you
+
+know are practical for a lot of
+
+applications and can find solutions to
+
+new problems without being trained to do
+
+it um Etc
+
+and you know it it's not going to happen
+
+within the next three years but it may
+
+happen with you know between 3 to 5
+
+years something like that and that's
+
+kind of corresponds to you know the sort
+
+of ramp up that we see in uh uh in in
+
+investment now whether
+
+other so so that that's the first thing
+
+now the the second thing that's
+
+important is that there's not going to
+
+be one secret Magic Bullet that one
+
+company or one group of people is going
+
+to invent that is going to just solve
+
+the problem um it's going to be a lot of
+
+different ideas a lot of effort some
+
+principles around which to base this
+
+that that some people may may not
+
+subscribe to and will will go um in a
+
+direction that is you know well turn out
+
+to be a dead end uh so there's not going
+
+to be like a
+
+day before which there is no AGI and
+
+after which we have AGI this is not
+
+going to be an event um it's going to be
+
+continuous conceptual ideas that as time
+
+goes by are going to be made bigger and
+
+to scale and going to work better and
+
+it's not going to come from a single
+
+entity it's going to come from the
+
+entire research Community across the
+
+world and the people who share their
+
+research are going to move faster than
+
+the ones that don't and so if you think
+
+that there is some startup somewhere
+
+with five people who has discovered the
+
+secret of a GI and you should invest
+
+five billion in them you're making a
+
+huge mistake you know Yan first of all I
+
+always enjoy our conversations because
+
+we start to get some real answers and I
+
+remember even from our last conversation
+
+I was just
+
+and always looking back to that
+
+conversation saying okay this is what
+
+Yan says this is what everybody else is
+
+saying I'm pretty sure that this is the
+
+grounding point and that's been
+
+corrected I know we're going to do that
+
+with this one as well and now you've set
+
+me up for two uh interesting threads
+
+that we're going to pull out um as we go
+
+on with our conversation first is the
+
+understanding of physics and the real
+
+world and the second is open source so
+
+we'll do that when we come back right
+
+after this and we're back here with Yan
+
+laon he is the chief AI scientist at
+
+meta the touring Award winner that we're
+
+thrilled to have on our show luckily for
+
+the third time um I want to talk to you
+
+about physics Yan because there's sort
+
+of this famous moment in big technology
+
+podcast history and I say famous with
+
+our listeners I don't know if it really
+
+extended Beyond but you had
+
+me uh uh write to chat GPT if I hold a
+
+paper horizontally with both hands and
+
+let it let the go let go of the paper
+
+with my left hand uh what will happen
+
+and uh I write it and it convincingly
+
+says like it writes though the physics
+
+will will happen and the paper will
+
+float towards your left hand and I read
+
+it out loud convinced and you're like
+
+that thing just hallucinated and you
+
+believed it that is what happened so
+
+listen it's been two years I put the
+
+test to chat PT today uh it says um when
+
+you let go of the paper with your left
+
+hand grav gravity will cause the left
+
+side of the paper to drop while the
+
+right side still held up by your right
+
+hand remains in place this creates a
+
+pivot effect where the paper rotates
+
+around the point where your right hand
+
+is hting it
+
+so now it gets it right it learned the
+
+lesson you know it's quite possible that
+
+this uh um you know some someone hired
+
+by open AI to solve the problem was fed
+
+that question and sort of fed the answer
+
+and the system was fine tune with the
+
+answer I mean you know obviously you can
+
+imagine an infinite number of such
+
+questions and and this is where you know
+
+uh the the the So-Cal post training of
+
+LM becomes expensive um which is that
+
+you know how much coverage of all those
+
+style of questions do you have to do for
+
+the system to basically cover 90% of or
+
+95% or whatever percentage of all the
+
+questions that people may ask it um but
+
+there you know it's there's a long tale
+
+and there's no way you can train the
+
+system to answer all possible questions
+
+because there is an essentially infinite
+
+number of them and and there is way more
+
+question the system cannot answer that
+
+um then questions he can it can answer
+
+you cannot cover the set of all possible
+
+training uh you know questions in the
+
+training the training set right so
+
+because I think our conversation last
+
+time was saying you you said that
+
+because these actions of like what's
+
+happening with the paper if you let go
+
+of it with your hand has not been
+
+covered widely in text the model won't
+
+really know how to handle it because
+
+unless it's been covered in text the
+
+model won't have that understanding
+
+won't have that inherent understanding
+
+right of the real world and I've kind of
+
+gone with that for a while uh then I
+
+said you know what let's let's try to
+
+generate some AI videos
+
+and one of the interesting things that
+
+I've seen with the AI videos is there is
+
+some understanding of how the physical
+
+world works there um in a way that in
+
+our first meeting nine years ago you
+
+said um one of the hardest things to do
+
+is you ask an AI what happens if you
+
+hold a pen vertically on a table and let
+
+go uh will it fall and there's like an
+
+unbelievable amount of permutations uh
+
+that can occur and it's very very
+
+difficult for the AI to figure that out
+
+because it just doesn't inherently
+
+understand physics but now you go to
+
+something like Sora uh and you say um
+
+show me a a video of a man sitting on a
+
+chair kicking his legs and you can get
+
+that video and the person sits on the
+
+chair and they kick their legs and the
+
+legs you know don't fall out of their
+
+sockets or stuff they Bend at the joints
+
+and they don't have three legs and they
+
+don't have three legs so wouldn't that
+
+suggest an improvement of the
+
+capabilities here with these large large
+
+models no why because you still have
+
+those videos produced by those uh video
+
+generation system where you know you
+
+spill a glass of wine and and the wine
+
+like floats in the air or like flies off
+
+or disappears or whatever and um so you
+
+know of course for every specific
+
+situation you can always collect more
+
+data for that situation and then train
+
+your model to handle it but that's not
+
+really understanding the underlying
+
+reality this is just you know
+
+compensating
+
+uh the the lack of understanding by uh
+
+increasingly large amounts of data um
+
+you know
+
+children
+
+understand uh you know simple Concepts
+
+like like
+
+gravity um with a surprisingly small
+
+amount of
+
+data um so in fact there is an
+
+interesting calculation you you can do
+
+which I've talked about publicly before
+
+but um if you take llm typical LM train
+
+on 30 trillion tokens something like
+
+that right 310 to the 13 tokens a token
+
+is about three bytes so that's .9 10 to
+
+the 14 tokens let's say 10 to the 14
+
+tokens to to round this up
+
+um that text would take any of us
+
+probably some on the order of 400,000
+
+years to read right no
+
+problem at 12 hours a day okay um
+
+now um if for old has been awake a total
+
+of 16,000
+
+hours uh you can multiply by 3600 to
+
+give number of seconds and then you can
+
+put a number on how like how much data
+
+has got into your visual cortex through
+
+the optic nerve optic nerve each optic
+
+nerve we have two of them carries about
+
+one meab per second roughly right so
+
+it's 2 megabytes per second uh time 3600
+
+time
+
+16,000 and that's just about 10 to the
+
+14 bytes okay so in four years a child
+
+has seen through vision or touch for
+
+that matter as much data as the biggest
+
+LMS and and it tells you clearly that
+
+we're not going to get to human level by
+
+just training on text it's just not a
+
+rich enough source of information um and
+
+by the way 16,000 hours is not that much
+
+video it's 30 minutes of YouTube uploads
+
+okay uh we can get that pretty easily
+
+now in N months uh baby has
+
+seen you know um let's say 10 to the 13
+
+bytes something which is not not much
+
+again um and in that in that time baby
+
+has learned basically all of intuitive
+
+physics that that uh that that that we
+
+know about um you know conservation
+
+momentum gravity conservation of
+
+momentum the fact that object don't
+
+spontaneously disappear the fact that
+
+they still exist even if you hide them I
+
+mean there's all kinds of stuff you know
+
+very basic stuff that we learn about the
+
+world in the first few months of life um
+
+and this is what we need to reproduce
+
+with machine this type of learning of
+
+you know figuring out uh what is
+
+possible and impossible in the world
+
+what will result from an action you take
+
+um so that you can plan a sequence of
+
+actions to arrive at a particular goal
+
+that's the idea of world model and now
+
+connected with the question about uh
+
+video generation systems is the right
+
+way to approach this problem to train
+
+better and better video generation
+
+systems and my answer to this is
+
+absolutely no um
+
+the the problem of understanding the
+
+world does not go
+
+through the solution to the to to
+
+generating video at the pixel level okay
+
+I don't need to know um if I if I take
+
+this uh this glass of uh of this cup of
+
+of water and I spill it I cannot
+
+entirely predict you know the exact path
+
+of that the water will will uh follow on
+
+the table and what shape it's going to
+
+take and all that stuff what noise it's
+
+going to make um but at a certain level
+
+of obstruction I can make a prediction
+
+that the water will
+
+spill okay and it it you know probably
+
+make my phone wet and everything so um
+
+so at a I can't predict all the details
+
+but I can predict at some level of
+
+abstraction and I think that's really a
+
+critical concept the fact that if you
+
+want a system to be able to learn to
+
+comprehend
+
+the the world and understand how the
+
+world works it needs to be able to learn
+
+an abstract
+
+representation of the world that allows
+
+you to make those prediction and um what
+
+that means is that those architectures
+
+will not be
+
+generative right and uh I want to get to
+
+your solution here in a moment but I
+
+just wanted to also like what would a
+
+conversation between us be without a
+
+demo so I want to just show you I'm
+
+going to put this on the screen when we
+
+do the video but there's this is a video
+
+pretty proud of I got this guy sitting
+
+on a chair kicking his legs out and the
+
+legs stay attached to his body and I was
+
+like all right this stuff is making real
+
+progress and then I said can I get a car
+
+going into a Hy stack and so it's two
+
+bales of hay stacks and then a Hy stack
+
+magically emerges from the hood of a car
+
+that's stationary and I just said to
+
+myself okay yan yan wins again it's it's
+
+nice car though yeah I mean the thing is
+
+those systems have been fine tun with a
+
+huge amount of data for humans because
+
+you know that's that's what people are
+
+asking most videos they ask to so so
+
+there is a lot of data of humans doing
+
+various things to to train those th
+
+those uh those systems so that's why it
+
+works for humans but not for a situation
+
+that the the people training that system
+
+had not anticipated so you said that the
+
+model can't be generative to be able to
+
+understand the real world uh you are
+
+working on something called V jeppa JEA
+
+JEA right V is the video you also have I
+
+JEA for images right that is we have
+
+jads for all kinds of stuff text also
+
+and text so explain how that will solve
+
+the problem of being able to allow a
+
+machine to abstractly represent what is
+
+going on in the real world okay so what
+
+has made the success of
+
+uh Ai and particularly um natural
+
+language understanding in chatbot in the
+
+last few years but also to some extent
+
+computer vision is self-supervised
+
+learning so what is self-supervised
+
+learning it's um take an input be it an
+
+image a video a piece of text
+
+whatever uh corrupt it in some way and
+
+train a big neural net to reconstruct it
+
+basically recover the uncorrupted
+
+version of it or the undistorted version
+
+of it or a transformed version of it
+
+that would result from taking an action
+
+okay
+
+um and you know that that would mean um
+
+for example in the context of text take
+
+a piece of text remove some of the words
+
+and then train some big neural net to
+
+prct the words that are missing take an
+
+image remove some pieces of it and then
+
+train bigal net to recover the full
+
+image take a video remove a piece of it
+
+train that to predict what's missing
+
+okay so llms are a special case of this
+
+where um you you you take a a text and
+
+you train the system to just reproduce
+
+the text and you don't need to corrupt
+
+the text text because the system is
+
+designed in such a way that to predict
+
+one particular word or token in the text
+
+it can only look at the tokens that are
+
+to the left of it okay so so in effect
+
+the system has hardwired into its
+
+architecture the fact that it cannot
+
+look at the present in the future U to
+
+predict the present it can only look at
+
+the past okay so but basically you train
+
+that system to just reproduce its input
+
+on its output okay um so this kind of
+
+Architecture is called a causal
+
+architecture and this is what an llm is
+
+a large language model that's what you
+
+know all the chatbots in the world are
+
+are based on um take a piece of text to
+
+and train the system to just reproduce a
+
+piece of text on its output um and to
+
+predict a particular word it can only
+
+look at the word to the to the left of
+
+it and so now what you have is a system
+
+that given a piece of text can predict
+
+the word that that follows um that text
+
+and you can take
+
+that uh that word that is predicted uh
+
+shift it into the input and then predict
+
+the second word shift that into the
+
+input predict the third word that's
+
+called Auto reive prediction it's not a
+
+New Concept very old um so you know self
+
+supervisor learning does not train to do
+
+a particular does not uh train a system
+
+to accomplish a particular task other
+
+than capture the internal structure of
+
+the of the data it doesn't require any
+
+labeling by by human Okay so apply these
+
+to images um take an image mask a chunk
+
+of it like a bunch of
+
+Patches from it if you want and then
+
+train a begin on that
+
+to reconstruct that that what is
+
+missing and now use the internal
+
+representation of the image learned by
+
+the system um as input to a subsequent
+
+Downstream task for I don't know image
+
+recognition segmentation whatever it is
+
+it works to some
+
+extent but not great um so there was a
+
+big project like this uh to do this at
+
+Fair it's called ma Max Auto encoder
+
+it's a special case of doing Auto which
+
+itself is you know the sort of General
+
+framework from which I um I derive this
+
+this idea self supervis running so um it
+
+doesn't work so
+
+well um and there's various ways to you
+
+know if you apply this to video also
+
+I've been working on this for almost 20
+
+years now take a video show just the a
+
+piece of the video and then train the
+
+system to predict what's going to happen
+
+next in the video so same idea as for
+
+text but just for for video
+
+and that doesn't work very well either
+
+um and the reason it doesn't work why
+
+does it work for text and not for video
+
+for
+
+example um and the answer
+
+is it's easy to predict a word that
+
+comes after a text you cannot exactly
+
+predict which word follows a particular
+
+text but you can produce something like
+
+a probability distribution over all the
+
+possible words in your dictionary all
+
+the possible tokens is only about you
+
+know 100 thousand possible tokens so you
+
+you just produce a big Vector with you
+
+know 100 thousand different numbers that
+
+are positive and some to one okay um now
+
+what are you going to
+
+do to represent a probability
+
+distribution of all possible frames in a
+
+video or all possible missing parts of
+
+an image we don't know how to do this
+
+properly in fact it's mathematically
+
+intractable to represent distributions
+
+in high dimensional continuous spaces
+
+okay we don't know how to do this in a
+
+kind of useful way if you want um and so
+
+and I've tried to you know do this for
+
+video for a long time
+
+um and so that is the reason why those
+
+idea of s supervis learning using
+
+generative models have failed so far and
+
+this is why you know using uh you know
+
+trying to train a video generation
+
+system as a way to understand to get a
+
+system to understand how the world works
+
+that's why it's it can't
+
+Ed um so what's the alternative the
+
+alternative is something that is not a
+
+gener generative architecture uh which
+
+we call jepa so that means joint
+
+embedding predictive architecture and we
+
+know this works much better than
+
+attempting to reconstruct so we we've
+
+had uh experimental uh results on
+
+learning good representations of of
+
+images going back many
+
+years where instead of taking an image
+
+corrupting it and attempting to
+
+reconstruct this image we take the
+
+original full image and the corrupted
+
+version we run them both through neural
+
+Nets those neural Nets produce
+
+representations of those of those two
+
+images the initial one and the corrupted
+
+one and we train another neur a
+
+predictor to predict the representation
+
+of the full image from the
+
+representation of the corrupted one okay
+
+and if you train a system if you
+
+successfully train a system of this type
+
+this this is not trained to reconstruct
+
+anything it's just trained to learn a
+
+representation so that you can make
+
+prediction within the representation
+
+layer and you have to make sure that the
+
+representation contains as much
+
+information as possible about the input
+
+which is where it's difficult actually
+
+that's the difficult part of training
+
+those systems so that's called a jepa
+
+joint embedding predictive
+
+architecture um and to to train a system
+
+to learn good representations of images
+
+those
+
+joint embedding architectures work much
+
+better than the ones that are generative
+
+that are trained by
+
+reconstruction um and now we have a
+
+version that works for video too so we
+
+take a video we corrupt it by masking a
+
+big chunk of it we run the full video
+
+and the corrupted one through encoders
+
+that are identical and then and
+
+simultaneously we train a predictor to
+
+predict the representation of the full
+
+video from the partial one
+
+and the representation that the system
+
+learns of videos when you feed it to a
+
+system that you try to tell you for
+
+example what action is taking place in
+
+the video or whether the video is
+
+possible or impossible or things like
+
+that it actually works quite well um
+
+that's cool so it gives that abstract
+
+thinking yeah in a way right and and we
+
+have experimental result that shows that
+
+this joint embedding training we have
+
+several methods for doing this uh there
+
+one that's called Dino another one
+
+that's called VC rag another one that's
+
+Vic another one that's called
+
+IA but which is sort of distillation
+
+method um and so we you know several
+
+different ways to to approach this but
+
+one of those is going to lead to a
+
+recipe that basically gives us a general
+
+way of training those jaer architectures
+
+okay so it's not generative because the
+
+system is not trying to regenerate the
+
+part of the input it's trying to
+
+generate a representation an abstract
+
+representation of the input and what
+
+that allows it to do is to ignore all
+
+the details about the that are really
+
+not predictable like you know the the
+
+pen that you put on the table vertically
+
+and when you let it go you cannot
+
+predict in which direction is going to
+
+fall but at some abstract level you can
+
+say that the pen is going to fall
+
+falling right without representing the
+
+direction um so so that's the that's the
+
+idea of jepa and and we're starting to
+
+have you know good results on sort of um
+
+having systems so VJ system for example
+
+is train on natural lots of natural
+
+videos and then you can show it a video
+
+that's impossible like a video where for
+
+example an object disappears or changes
+
+shape okay you can generate this with a
+
+game engine or something or a situation
+
+where you have a ball rolling and it
+
+rolls and it starts behind a screen and
+
+then the screen comes down and the bll
+
+is not there anymore right okay um so
+
+things like this and you measure the
+
+prediction error of the system so the
+
+system is training to predict right and
+
+not necessarily in time but but like
+
+basically to predict you know the the
+
+the sort of coherence of the video and
+
+so you you measure the prediction error
+
+as you show the the video to the system
+
+and when something impossible occurs the
+
+prediction error goes goes through the
+
+roof and so you can detect if the system
+
+has integrated some idea of what you
+
+know is possible physically or what's
+
+not possible but just being trained with
+
+physically possible natural videos um so
+
+that that's really interesting that's s
+
+of the first hint
+
+that a system is a quite suable common
+
+sense and yes um we have versions of
+
+those system also that are soal action
+
+conditions so basically we have things
+
+where we have a chunk of video or an
+
+image of you know the state of the world
+
+at time T and then an action is being
+
+taken like you know a robot arm is being
+
+moved or whatever and then of course we
+
+can observe the the result um resulting
+
+from this action so now what we have
+
+when when we train a jeta with this um
+
+the the model basically can say here is
+
+the state of the world at time T here is
+
+an action you might take I can predict
+
+the state of the world at time t plus
+
+one in this abstract representation
+
+space there's this learning of of how
+
+the world works of how the world works
+
+and and the cool thing about this is
+
+that now you can imagine you can have
+
+the system imagine what would be the
+
+outcome of a sequence of actions and if
+
+you give it a goal saying like I want
+
+the world to look like this at the end
+
+can you figure out a sequence of actions
+
+to get me to that point it can actually
+
+figure out by search
+
+for a sequence of actions that will
+
+actually produce that result that's
+
+planning that's reasoning that's actual
+
+reasoning and actual planning okay I
+
+have to get you out here where we are
+
+over time but can you give me like 60
+
+seconds your reaction uh to deep seek
+
+and sort of has open source overtaken
+
+the propriety proprietary models at this
+
+point and we got a limit to 60 seconds
+
+otherwise I'm going to get uh killed by
+
+your team here so overtaken is a is a
+
+strong word I think uh progress is
+
+faster in the open source world that's
+
+for sure but of course you know uh the
+
+pro proprietary shops are profiting from
+
+the progress of the open source world
+
+right they get access to that
+
+information like everybody else um so
+
+what what's clear is that there is many
+
+more interesting ideas coming out of the
+
+open source world that any single shop
+
+as big as it can be cannot come up with
+
+you know nobody has a monopoly and good
+
+ideas and so the magic efficiency of the
+
+open source world is is that uh it
+
+recruits talents from all over the world
+
+and so what we've seen with deeps is
+
+that if you set up a small team with a
+
+relatively Long Leash and few
+
+constraints on coming up with just the
+
+next generation of of of llms they can
+
+actually come up with new ideas that
+
+nobody else had come up with right they
+
+can so reinvent a little bit what what
+
+uh you know how you do things and then
+
+if they share that with the rest of the
+
+world then the entire world progresses
+
+okay and so um
+
+uh the the it's it it clearly shows that
+
+um you know open source progresses
+
+faster um and um you know a lot more
+
+Innovation can can take place in the
+
+open source World which the provider
+
+world may have hard time catching up
+
+with uh is cheaper to run what we see is
+
+uh for you know Partners who we we talk
+
+to um they say well our clients when
+
+they prototype something they may use a
+
+proprietary API but when it comes time
+
+to actually deploy the product they
+
+actually use Llama Or open or other open
+
+source engines because it's cheaper and
+
+it's more uh secure you know it's more
+
+controllable you can run it on premise
+
+you know there's all kinds of advantages
+
+so um we've seen also a big evolution in
+
+the the thinking of some people who are
+
+initially worried that U open source
+
+efforts uh we're going to I don't know
+
+for example you know help the Chinese or
+
+something something if you have like
+
+some geopolitical reason to think it's a
+
+bad idea um but what deeps has shown is
+
+that the Chinese don't need us I mean
+
+they can come up with really good ideas
+
+right I mean we all know that there are
+
+really really good scientists in in
+
+China and uh one thing that is not Wily
+
+known is that the single most cited
+
+paper in all of science is a paper on
+
+deep learning from 10 years ago from
+
+2015 and he came out of Beijing oh okay
+
+it's uh the paper is called uh res net
+
+so it's a particular type of
+
+architecture of neural net where
+
+basically by default every stage in a
+
+deeping system confuses the identity
+
+function it just copies its input on its
+
+output and what the neural net does is
+
+compute the deviation from this identity
+
+okay so that allows to train extremely
+
+deep neural net with you know dozens of
+
+layers perhaps 100 layers and it was uh
+
+the first author of that paper is
+
+gentleman called scaming called cing her
+
+at the time he was working at Microsoft
+
+research Beijing MH um soon thereafter
+
+the publication of that paper he joined
+
+fair in California so I hired him um
+
+and worked at Fair
+
+for8 years or so and recently left and
+
+is now a professor at MIT okay so uh
+
+there are really really good scientists
+
+everywhere around the world nobody has a
+
+monopoly on good ideas certainly silicon
+
+valy does not have a monopoly and good
+
+ideas um or another example of that is
+
+actually the first Lama came out of
+
+Paris it came out of the fair lives in
+
+Paris a small team of 12 people um
+
+so um you have to take advantage of the
+
+diversity of ideas
+
+backgrounds uh creative juices of the
+
+entire world if you want uh Science and
+
+Technology to progress fast and that's
+
+enabled by by open source Yan it is
+
+always great to speak with you uh
+
+appreciate this is our I think fourth or
+
+fifth time speaking again Going Back 9
+
+years ago you always helped me see
+
+through all the hype and the buzz and
+
+actually figure out what's happening and
+
+I'm sure that's going to be the case for
+
+our listeners and viewers as well so y
+
+thank you so much for coming on hope we
+
+do it again soon thank you all right
+
+everybody thank you for watching we'll
+
+be back on Friday to break down the
+
+week's news until then we'll see you
+
+next time on big technology podcast
+
